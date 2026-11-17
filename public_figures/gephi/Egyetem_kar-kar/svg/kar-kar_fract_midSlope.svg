@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1816.8713"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-899.000000 -928.000000 1816.871338 1818.000000" height="1818.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_AKT id_GTK"
+              d="M -430.537262,-161.852982 A 452.868278,452.868278 0,0 1,-759.508301,146.145081"
+              stroke="#eeab89" stroke-width="17.79133"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_AKT id_MÉKK"
+              d="M -406.899170,-162.835968 A 704.112623,704.112623 0,0 1,-592.948425,559.895264"
+              stroke="#ffc135" stroke-width="26.559479"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_AKT id_TTK"
+              d="M -447.040649,-232.253006 A 415.139423,415.139423 0,0 1,-516.293884,-611.865906"
+              stroke="#96c709" stroke-width="17.870323"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_AKT id_ÁOK"
+              d="M -404.222839,-238.878693 A 842.455055,842.455055 0,0 1,332.093384,-729.495789"
+              stroke="#aaae89" stroke-width="17.356873"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_EÜK"
+              d="M 52.953377,-15.550678 A 715.923484,715.923484 0,0 1,664.801819,484.701508"
+              stroke="#8b6f7f" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_GTK"
+              d="M -16.965984,11.916410 A 715.402498,715.402498 0,0 1,-763.913147,183.543213"
+              stroke="#b75b7f" stroke-width="17.59385"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_GyTK"
+              d="M 46.314144,4.190805 A 392.549830,392.549830 0,0 1,206.478027,349.567505"
+              stroke="#829778" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_IK"
+              d="M 30.748577,-55.405521 A 702.279483,702.279483 0,0 1,681.227478,-412.436005"
+              stroke="#a2840d" stroke-width="19.489664"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_KK-KGyC"
+              d="M 3.936311,22.422876 A 393.302724,393.302724 0,0 1,-272.155060,309.871613"
+              stroke="#97737f" stroke-width="17.356873"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_MK"
+              d="M -7.938437,-55.380653 A 375.114095,375.114095 0,0 1,17.401953,-413.499939"
+              stroke="#c65000" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_NEK"
+              d="M 44.345173,-44.017273 A 374.413615,374.413615 0,0 1,405.853790,-79.145721"
+              stroke="#83657f" stroke-width="17.830826"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_TTK"
+              d="M -27.952345,-32.030079 A 697.146019,697.146019 0,0 1,-474.784271,-604.215637"
+              stroke="#5f7700" stroke-width="17.751833"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_ZMK"
+              d="M -14.607605,-51.013515 A 740.289735,740.289735 0,0 1,-54.111401,-886.415344"
+              stroke="#9a4900" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_ÁJK"
+              d="M 44.495316,6.764958 A 761.155670,761.155670 0,0 1,294.257935,818.775085"
+              stroke="#9a427f" stroke-width="17.356873"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_BTK id_ÁOK"
+              d="M 8.735746,-60.072678 A 690.942355,690.942355 0,0 1,343.642334,-676.372803"
+              stroke="#735e7f" stroke-width="19.01571"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_EÜK id_GTK"
+              d="M 636.797180,541.723145 A 1291.361745,1291.361745 0,0 1,-782.912109,210.012543"
+              stroke="#b19bff" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_EÜK id_NEK"
+              d="M 641.305420,501.345581 A 512.886943,512.886943 0,0 1,446.030182,8.997169"
+              stroke="#7da4ff" stroke-width="21.306488"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_EÜK id_TTK"
+              d="M 634.380676,517.860535 A 1401.338852,1401.338852 0,0 1,-465.867065,-605.093323"
+              stroke="#59b77f" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_EÜK id_ÁJK"
+              d="M 664.341614,566.529053 A 426.788771,426.788771 0,0 1,319.311493,850.157959"
+              stroke="#9382ff" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_EÜK id_ÁOK"
+              d="M 645.470154,496.263031 A 1060.863402,1060.863402 0,0 1,399.558502,-623.313110"
+              stroke="#6d9eff" stroke-width="22.01742"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_GTK"
+              d="M -256.657806,814.270874 A 762.765066,762.765066 0,0 1,-818.136047,226.349121"
+              stroke="#adb1ff" stroke-width="17.609648"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_GyTK"
+              d="M -193.920975,772.508301 A 477.850679,477.850679 0,0 1,131.845062,429.458435"
+              stroke="#77edf7" stroke-width="19.347479"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_IK"
+              d="M -201.549774,771.634644 A 1302.166289,1302.166289 0,0 1,684.140564,-380.276611"
+              stroke="#98da8c" stroke-width="17.633345"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_KK"
+              d="M -252.411621,801.951843 A 1103.276832,1103.276832 0,0 1,-842.647156,-294.310272"
+              stroke="#76b7ff" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_MÉKK"
+              d="M -257.381775,832.709412 A 414.819243,414.819243 0,0 1,-610.038513,676.941345"
+              stroke="#bec7ab" stroke-width="17.451662"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_NEK"
+              d="M -202.017120,771.616638 A 915.730860,915.730860 0,0 1,401.603302,-31.685427"
+              stroke="#79bbff" stroke-width="17.712337"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_TTK"
+              d="M -242.655945,788.024109 A 1288.625234,1288.625234 0,0 1,-517.540527,-612.424561"
+              stroke="#55cd7f" stroke-width="19.189495"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_ÁJK"
+              d="M -156.992462,798.775452 A 406.224298,406.224298 0,0 1,253.734268,831.247437"
+              stroke="#8f98ff" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_FOK id_ÁOK"
+              d="M -216.106964,772.991760 A 1401.097865,1401.097865 0,0 1,349.819061,-665.476440"
+              stroke="#69b4ff" stroke-width="44.98049"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_GyTK"
+              d="M -763.110657,132.361115 A 880.892502,880.892502 0,0 1,152.759094,365.076477"
+              stroke="#a7c3f7" stroke-width="17.451662"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_IK"
+              d="M -788.486267,99.479828 A 1404.924159,1404.924159 0,0 1,683.768433,-425.371429"
+              stroke="#c8b08c" stroke-width="18.778734"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_MK"
+              d="M -804.589539,91.021507 A 903.443364,903.443364 0,0 1,-8.464602,-465.844055"
+              stroke="#eb7c7f" stroke-width="22.965328"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_MÉKK"
+              d="M -772.757813,199.121109 A 405.735229,405.735229 0,0 1,-639.143677,533.354248"
+              stroke="#ee9dab" stroke-width="24.2845"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_NEK"
+              d="M -778.531189,107.980553 A 1087.584084,1087.584084 0,0 1,404.879333,-77.243744"
+              stroke="#a990ff" stroke-width="18.146795"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_TTK"
+              d="M -843.494263,88.194595 A 768.197245,768.197245 0,0 1,-555.294312,-644.267700"
+              stroke="#85a37f" stroke-width="18.123098"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_ÁJK"
+              d="M -758.769531,153.305069 A 1093.326983,1093.326983 0,0 1,269.050629,819.613831"
+              stroke="#bf6eff" stroke-width="17.356873"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GTK id_ÁOK"
+              d="M -804.971741,90.881584 A 1290.850881,1290.850881 0,0 1,332.040100,-725.269592"
+              stroke="#998aff" stroke-width="21.08531"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_IK"
+              d="M 196.245804,348.763519 A 828.585121,828.585121 0,0 1,686.210999,-374.272339"
+              stroke="#92ec85" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_KK"
+              d="M 130.200882,413.696045 A 1064.991209,1064.991209 0,0 1,-823.800415,-296.139130"
+              stroke="#71c9f7" stroke-width="17.435863"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_KK-KGyC"
+              d="M 135.020813,439.561462 A 435.452101,435.452101 0,0 1,-284.305145,352.300507"
+              stroke="#87dbf7" stroke-width="17.59385"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_MK"
+              d="M 150.994247,366.676331 A 743.123648,743.123648 0,0 1,29.613317,-405.997314"
+              stroke="#b6b878" stroke-width="19.094704"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_MÉKK"
+              d="M 151.412582,463.269318 A 726.279624,726.279624 0,0 1,-579.317139,638.817505"
+              stroke="#b8d9a4" stroke-width="18.478563"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_NEK"
+              d="M 192.633347,348.860260 A 445.482109,445.482109 0,0 1,405.556396,-22.242504"
+              stroke="#73ccf7" stroke-width="17.751833"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_TTK"
+              d="M 135.699799,388.379974 A 1083.415281,1083.415281 0,0 1,-484.345154,-604.241028"
+              stroke="#4fdf78" stroke-width="21.519768"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_GyTK id_ÁOK"
+              d="M 170.754837,353.867157 A 972.766482,972.766482 0,0 1,363.656616,-648.059998"
+              stroke="#63c6f7" stroke-width="57.85624"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_KK"
+              d="M 697.357117,-354.496246 A 1333.145190,1333.145190 0,0 1,-801.426514,-313.211395"
+              stroke="#91b68c" stroke-width="17.435863"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_KK-KGyC"
+              d="M 731.759460,-328.621735 A 1082.309527,1082.309527 0,0 1,-271.106232,321.262512"
+              stroke="#a8c88c" stroke-width="17.59385"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_MK"
+              d="M 690.034912,-365.908173 A 588.086677,588.086677 0,0 1,110.226196,-424.519806"
+              stroke="#d6a50d" stroke-width="22.372885"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_MÉKK"
+              d="M 734.856018,-327.479858 A 1450.235538,1450.235538 0,0 1,-574.205872,610.435059"
+              stroke="#d9c639" stroke-width="17.830826"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_NEK"
+              d="M 747.719238,-324.194122 A 386.903010,386.903010 0,0 1,517.821594,-68.379150"
+              stroke="#94b98c" stroke-width="17.909819"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_TTK"
+              d="M 686.282349,-374.089905 A 1062.061929,1062.061929 0,0 1,-417.399078,-628.083496"
+              stroke="#70cc0d" stroke-width="22.609861"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_IK id_ÁOK"
+              d="M 683.363220,-423.886871 A 377.010407,377.010407 0,0 1,475.011108,-618.602295"
+              stroke="#84b38c" stroke-width="22.214901"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK id_KK-KGyC"
+              d="M -796.034485,-324.745605 A 697.922895,697.922895 0,0 1,-320.386108,273.335052"
+              stroke="#86a5ff" stroke-width="17.751833"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK id_NEK"
+              d="M -797.760193,-354.013367 A 1106.798153,1106.798153 0,0 1,418.622498,-95.522392"
+              stroke="#7296ff" stroke-width="17.751833"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK id_ÁOK"
+              d="M -811.177856,-371.202850 A 1115.722917,1115.722917 0,0 1,336.985291,-758.863647"
+              stroke="#6290ff" stroke-width="26.125021"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK-KGyC id_NEK"
+              d="M -294.696869,279.296112 A 717.411267,717.411267 0,0 1,399.399017,-59.909477"
+              stroke="#89a8ff" stroke-width="18.028307"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK-KGyC id_TTK"
+              d="M -350.176605,286.520569 A 857.192450,857.192450 0,0 1,-517.814148,-612.550171"
+              stroke="#65bb7f" stroke-width="17.633345"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_KK-KGyC id_ÁOK"
+              d="M -317.285431,273.254822 A 1078.028216,1078.028216 0,0 1,338.808899,-687.655823"
+              stroke="#79a2ff" stroke-width="32.167934"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MK id_MÉKK"
+              d="M 60.138351,-399.582001 A 1075.610411,1075.610411 0,0 1,-579.834351,581.656677"
+              stroke="#fc922c" stroke-width="17.79133"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MK id_TTK"
+              d="M -7.493277,-454.882446 A 487.162507,487.162507 0,0 1,-426.067871,-621.096741"
+              stroke="#939800" stroke-width="21.266993"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MK id_ÁOK"
+              d="M 85.437263,-527.088928 A 387.459651,387.459651 0,0 1,332.531860,-715.474670"
+              stroke="#a77f7f" stroke-width="18.50226"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MÉKK id_NEK"
+              d="M -620.315369,539.220154 A 1078.560952,1078.560952 0,0 1,398.844269,-55.218746"
+              stroke="#baa6ab" stroke-width="17.554354"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MÉKK id_TTK"
+              d="M -689.038879,540.870605 A 1098.690752,1098.690752 0,0 1,-540.887146,-627.761902"
+              stroke="#96b92c" stroke-width="32.894665"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_MÉKK id_ÁOK"
+              d="M -647.394470,532.328308 A 1441.025740,1441.025740 0,0 1,336.361816,-695.180603"
+              stroke="#aaa0ab" stroke-width="26.891247"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_NEK id_TTK"
+              d="M 398.656891,-49.862240 A 949.559085,949.559085 0,0 1,-445.787842,-610.437012"
+              stroke="#51ac7f" stroke-width="17.949314"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_NEK id_ÁOK"
+              d="M 424.549347,-100.266479 A 563.119993,563.119993 0,0 1,388.215179,-628.989685"
+              stroke="#6593ff" stroke-width="37.499916"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_TTK id_ÁOK"
+              d="M -404.289673,-749.172058 A 769.705729,769.705729 0,0 1,347.854584,-783.301392"
+              stroke="#41a67f" stroke-width="43.32165"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none" class="id_ÁJK id_ÁOK"
+              d="M 264.321014,821.934509 A 1323.146106,1323.146106 0,0 1,371.572968,-640.665833"
+              stroke="#7b71ff" stroke-width="17.514856"
+              stroke-opacity="0.29803923"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffcf13" r="37.552967" cx="-420.3414"
+                class="id_AKT" cy="-201.37753" stroke="#7f6709"
+                stroke-opacity="1.0" stroke-width="6.5309505"/>
+        <circle fill-opacity="1.0" fill="#923000" r="38.300755" cx="11.428767"
+                class="id_BTK" cy="-18.528614" stroke="#491800"
+                stroke-opacity="1.0" stroke-width="6.6610007"/>
+        <circle fill-opacity="1.0" fill="#85afff" r="39.128704" cx="676.18677"
+                class="id_EÜK" cy="525.6806" stroke="#42577f"
+                stroke-opacity="1.0" stroke-width="6.8049917"/>
+        <circle fill-opacity="1.0" fill="#7ddcff" r="49.672817" cx="-203.86272"
+                class="id_FOK" cy="825.5773" stroke="#3e6e7f"
+                stroke-opacity="1.0" stroke-width="8.63875"/>
+        <circle fill-opacity="1.0" fill="#dd87ff" r="64.63672" cx="-828.9334"
+                class="id_GTK" cy="156.92647" stroke="#6e437f"
+                stroke-opacity="1.0" stroke-width="11.241168"/>
+        <circle fill-opacity="1.0" fill="#ec78ff" r="20.571825" cx="893.0444"
+                class="id_GYFK" cy="97.003075" stroke="#763c7f"
+                stroke-opacity="1.0" stroke-width="3.5777087"/>
+        <circle fill-opacity="1.0" fill="#72fff0" r="60.733273" cx="196.20644"
+                class="id_GyTK" cy="414.77792" stroke="#397f78"
+                stroke-opacity="1.0" stroke-width="10.562308"/>
+        <circle fill-opacity="1.0" fill="#b3d91a" r="73.95938" cx="761.11554"
+                class="id_IK" cy="-403.46072" stroke="#596c0d"
+                stroke-opacity="1.0" stroke-width="12.862501"/>
+        <circle fill-opacity="1.0" fill="#7093ff" r="39.58272" cx="-837.2775"
+                class="id_KK" cy="-336.99857" stroke="#38497f"
+                stroke-opacity="1.0" stroke-width="6.883951"/>
+        <circle fill-opacity="1.0" fill="#9db7ff" r="42.82518" cx="-317.63245"
+                class="id_KK-KGyC" cy="319.80264" stroke="#4e5b7f"
+                stroke-opacity="1.0" stroke-width="7.447857"/>
+        <circle fill-opacity="1.0" fill="#fa7100" r="61.340202" cx="58.208424"
+                class="id_MK" cy="-466.2282" stroke="#7c3800"
+                stroke-opacity="1.0" stroke-width="10.667861"/>
+        <circle fill-opacity="1.0" fill="#ffb358" r="72.4693" cx="-652.97546"
+                class="id_MÉKK" cy="610.9013" stroke="#7f592c"
+                stroke-opacity="1.0" stroke-width="12.603355"/>
+        <circle fill-opacity="1.0" fill="#759aff" r="56.06295" cx="459.5924"
+                class="id_NEK" cy="-50.41246" stroke="#3a4d7f"
+                stroke-opacity="1.0" stroke-width="9.750078"/>
+        <circle fill-opacity="1.0" fill="#2dbf00" r="84.58255" cx="-479.32053"
+                class="id_TTK" cy="-696.0412" stroke="#165f00"
+                stroke-opacity="1.0" stroke-width="14.710009"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="20.571825" cx="-42.08014"
+                class="id_ZMK" cy="-905.26337" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="3.5777087"/>
+        <circle fill-opacity="1.0" fill="#a255ff" r="33.74119" cx="282.79953"
+                class="id_ÁJK" cy="853.6144" stroke="#512a7f"
+                stroke-opacity="1.0" stroke-width="5.8680334"/>
+        <circle fill-opacity="1.0" fill="#558dff" r="102.85912" cx="443.84128"
+                class="id_ÁOK" cy="-725.9729" stroke="#2a467f"
+                stroke-opacity="1.0" stroke-width="17.888544"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="33" x="-420.3414" y="-190.37883" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_AKT" font-weight="bold">
+            AKT
+        </text>
+        <text font-size="33" x="11.428767" y="-7.529915" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_BTK" font-weight="bold">
+            BTK
+        </text>
+        <text font-size="34" x="676.18677" y="537.0458" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_EÜK" font-weight="bold">
+            EÜK
+        </text>
+        <text font-size="43" x="-203.86272" y="839.8431" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_FOK" font-weight="bold">
+            FOK
+        </text>
+        <text font-size="56" x="-828.9334" y="175.49161" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_GTK" font-weight="bold">
+            GTK
+        </text>
+        <text font-size="18" x="893.0444" y="102.907585" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_GYFK" font-weight="bold">
+            GYFK
+        </text>
+        <text font-size="53" x="196.20644" y="432.3934" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_GyTK" font-weight="bold">
+            GyTK
+        </text>
+        <text font-size="64" x="761.11554" y="-382.21686" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_IK" font-weight="bold">
+            IK
+        </text>
+        <text font-size="34" x="-837.2775" y="-325.63342" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_KK" font-weight="bold">
+            KK
+        </text>
+        <text font-size="37" x="-317.63245" y="332.102" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_KK-KGyC" font-weight="bold">
+            KK-KGyC
+        </text>
+        <text font-size="53" x="58.208424" y="-448.61273" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_MK" font-weight="bold">
+            MK
+        </text>
+        <text font-size="63" x="-652.97546" y="631.7168" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_MÉKK" font-weight="bold">
+            MÉKK
+        </text>
+        <text font-size="49" x="459.5924" y="-34.30925" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_NEK" font-weight="bold">
+            NEK
+        </text>
+        <text font-size="74" x="-479.32053" y="-671.747" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_TTK" font-weight="bold">
+            TTK
+        </text>
+        <text font-size="18" x="-42.08014" y="-899.3589" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_ZMK" font-weight="bold">
+            ZMK
+        </text>
+        <text font-size="29" x="282.79953" y="863.3021" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_ÁJK" font-weight="bold">
+            ÁJK
+        </text>
+        <text font-size="89" x="443.84128" y="-696.4297" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_ÁOK" font-weight="bold">
+            ÁOK
+        </text>
+    </g>
+</svg>

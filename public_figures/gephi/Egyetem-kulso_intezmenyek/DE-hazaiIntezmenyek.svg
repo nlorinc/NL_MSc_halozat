@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1590.3105"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-698.128662 -701.000000 1590.310547 1354.000000" height="1354.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="16.0"
+              d="M 145.548050,-36.211624 L 460.487762,44.898502"
+              class="id_DE id_60024812" stroke-opacity="1.0" stroke="#253494"/>
+        <path fill="none" stroke-width="8.245854"
+              d="M 47.445736,-54.309135 L -372.724182,-101.900322"
+              class="id_DE id_60026055" stroke-opacity="1.0" stroke="#2c55a0"/>
+        <path fill="none" stroke-width="4.589879"
+              d="M 65.735138,-87.598167 L -261.217987,-492.906982"
+              class="id_DE id_60002536" stroke-opacity="1.0" stroke="#3683b1"/>
+        <path fill="none" stroke-width="4.569225"
+              d="M 137.376617,-78.347481 L 559.824280,-389.717590"
+              class="id_DE id_60007508" stroke-opacity="1.0" stroke="#3684b1"/>
+        <path fill="none" stroke-width="0.9162243"
+              d="M 53.747711,-73.544327 L -247.374420,-246.126144"
+              class="id_DE id_60003548" stroke-opacity="1.0" stroke="#73969a"/>
+        <path fill="none" stroke-width="4.757641"
+              d="M 112.043015,-0.958172 L 280.532837,538.161377"
+              class="id_DE id_60027332" stroke-opacity="1.0" stroke="#3580b0"/>
+        <path fill="none" stroke-width="3.364677"
+              d="M 51.344318,-28.585798 L -153.855316,61.483089"
+              class="id_DE id_60004737" stroke-opacity="1.0" stroke="#3b9cba"/>
+        <path fill="none" stroke-width="4.10622"
+              d="M 136.875824,-18.348387 L 568.912354,311.359222"
+              class="id_DE id_60030035" stroke-opacity="1.0" stroke="#388cb4"/>
+        <path fill="none" stroke-width="6.5925937"
+              d="M 59.840458,-15.370609 L -312.490540,317.254303"
+              class="id_DE id_60027811" stroke-opacity="1.0" stroke="#2f66a6"/>
+        <path fill="none" stroke-width="4.59951"
+              d="M 125.715820,-7.660576 L 437.069824,439.108307"
+              class="id_DE id_60024419" stroke-opacity="1.0" stroke="#3683b1"/>
+        <path fill="none" stroke-width="2.1704292"
+              d="M 120.590157,-92.835274 L 305.275818,-440.396515"
+              class="id_DE id_60182610" stroke-opacity="1.0" stroke="#46b2bf"/>
+        <path fill="none" stroke-width="2.42372"
+              d="M 52.007336,-27.138344 L -463.730286,219.106979"
+              class="id_DE id_60026434" stroke-opacity="1.0" stroke="#41b5c3"/>
+        <path fill="none" stroke-width="3.0999699"
+              d="M 125.580544,-89.796951 L 447.822815,-555.452026"
+              class="id_DE id_60013608" stroke-opacity="1.0" stroke="#3da3bd"/>
+        <path fill="none" stroke-width="1.7919315"
+              d="M 47.399372,-43.480103 L -506.744965,14.484160"
+              class="id_DE id_60068486" stroke-opacity="1.0" stroke="#4facb8"/>
+        <path fill="none" stroke-width="1.7266158"
+              d="M 111.985779,-96.423264 L 280.826508,-638.949768"
+              class="id_DE id_60182609" stroke-opacity="1.0" stroke="#51abb6"/>
+        <path fill="none" stroke-width="1.7740612"
+              d="M 55.228493,-75.965981 L -406.421692,-376.583649"
+              class="id_DE id_60008249" stroke-opacity="1.0" stroke="#50acb7"/>
+        <path fill="none" stroke-width="2.54725"
+              d="M 77.512375,-94.673370 L -134.396408,-591.521729"
+              class="id_DE id_60015828" stroke-opacity="1.0" stroke="#40b3c3"/>
+        <path fill="none" stroke-width="1.9583632"
+              d="M 80.931190,-1.377865 L -6.842381,254.970123"
+              class="id_DE id_60001434" stroke-opacity="1.0" stroke="#4bafbb"/>
+        <path fill="none" stroke-width="2.6641715"
+              d="M 143.845825,-66.498940 L 668.317993,-266.521301"
+              class="id_DE id_60068482" stroke-opacity="1.0" stroke="#3fafc1"/>
+        <path fill="none" stroke-width="1.1965097"
+              d="M 101.176826,1.154011 L 128.450409,336.861481"
+              class="id_DE id_60212127" stroke-opacity="1.0" stroke="#63a0a7"/>
+        <path fill="none" stroke-width="2.0351143"
+              d="M 89.916046,-98.158928 L 9.293705,-651.258728"
+              class="id_DE id_60113209" stroke-opacity="1.0" stroke="#49b0bc"/>
+        <path fill="none" stroke-width="2.080047"
+              d="M 143.721176,-30.541191 L 654.868286,168.469238"
+              class="id_DE id_60011719" stroke-opacity="1.0" stroke="#48b1bd"/>
+        <path fill="none" stroke-width="2.7897897"
+              d="M 68.451828,-7.722378 L -218.201889,401.716614"
+              class="id_DE id_60025187" stroke-opacity="1.0" stroke="#3eacc0"/>
+        <path fill="none" stroke-width="1.44891"
+              d="M 146.923126,-44.159523 L 704.117310,6.443515"
+              class="id_DE id_60005223" stroke-opacity="1.0" stroke="#59a6af"/>
+        <path fill="none" stroke-width="1.9077938"
+              d="M 99.461548,1.263725 L 121.176102,466.038055"
+              class="id_DE id_60068464" stroke-opacity="1.0" stroke="#4caeba"/>
+        <path fill="none" stroke-width="1.3431439"
+              d="M 90.168297,0.831455 L 5.263908,604.859436"
+              class="id_DE id_60182613" stroke-opacity="1.0" stroke="#5da4ac"/>
+        <path fill="none" stroke-width="2.2100134"
+              d="M 48.849457,-61.688583 L -504.616425,-210.798431"
+              class="id_DE id_60165534" stroke-opacity="1.0" stroke="#46b2bf"/>
+        <path fill="none" stroke-width="1.06912"
+              d="M 77.707321,-2.607559 L -142.735779,520.376892"
+              class="id_DE id_60257066" stroke-opacity="0.99607843"
+              stroke="#699ca2"/>
+        <path fill="none" stroke-width="0.953832"
+              d="M 50.671696,-30.193790 L -336.323761,123.816833"
+              class="id_DE id_60196683" stroke-opacity="1.0" stroke="#70989c"/>
+        <path fill="none" stroke-width="1.4698327"
+              d="M 142.853882,-68.909210 L 422.383636,-192.562866"
+              class="id_DE id_60006822" stroke-opacity="1.0" stroke="#58a7b0"/>
+        <path fill="none" stroke-width="1.0062759"
+              d="M 146.590118,-55.996487 L 614.784180,-125.235329"
+              class="id_DE id_60016160" stroke-opacity="1.0" stroke="#6d9a9f"/>
+        <path fill="none" stroke-width="0.85720265"
+              d="M 105.576096,-97.962936 L 151.157074,-363.856964"
+              class="id_DE id_60007614" stroke-opacity="1.0" stroke="#7a9295"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 104.512863,-98.133438 L 178.840836,-595.863586"
+              class="id_DE id_60001296" stroke-opacity="1.0" stroke="#898989"/>
+        <path fill="none" stroke-width="0.9777702"
+              d="M 134.581268,-15.556923 L 377.956146,199.691956"
+              class="id_DE id_60007562" stroke-opacity="1.0" stroke="#6f999e"/>
+        <path fill="none" stroke-width="0.80019134"
+              d="M 81.560333,-96.196487 L -26.811981,-426.962677"
+              class="id_DE id_60027871" stroke-opacity="1.0" stroke="#878a8a"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3fb17d" r="46.0" cx="97.12806"
+                class="id_DE" cy="-48.681793" stroke="#1f583e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="36.507072" cx="498.9154"
+                class="id_60024812" cy="54.795227" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="6.3490562"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="33.604736" cx="-409.01898"
+                class="id_60026055" cy="-106.01131" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="5.8443017"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="31.159504" cx="-282.48294"
+                class="id_60002536" cy="-519.2682" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="5.419044"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="30.462788" cx="586.4783"
+                class="id_60007508" cy="-409.36322" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="5.297876"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="28.574291" cx="-274.32144"
+                class="id_60003548" cy="-261.57025" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.969442"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="28.314138" cx="289.71335"
+                class="id_60027332" cy="567.53644" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.9241977"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="27.509434" cx="-181.23541"
+                class="id_60004737" cy="73.50112" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.7842493"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="26.807438" cx="592.0762"
+                class="id_60030035" cy="329.03662" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.662163"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="26.682903" cx="-334.1197"
+                class="id_60027811" cy="336.5769" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.640505"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="26.682903" cx="453.65253"
+                class="id_60024419" cy="462.9032" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.640505"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="25.171974" cx="318.1147"
+                class="id_60182610" cy="-464.55804" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.3777347"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="24.839329" cx="-488.09482"
+                class="id_60026434" cy="230.74013" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.3198833"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="24.42321" cx="462.92935"
+                class="id_60013608" cy="-577.2817" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.2475147"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="24.03738" cx="-532.7308"
+                class="id_60068486" cy="17.202312" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.1804137"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="23.97002" cx="288.56866"
+                class="id_60182609" cy="-663.8273" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.168699"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="23.901695" cx="-428.19278"
+                class="id_60008249" cy="-390.76056" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.1568165"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="23.617973" cx="-144.46777"
+                class="id_60015828" cy="-615.1354" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.1074734"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="23.155605" cx="-14.995605"
+                class="id_60001434" cy="278.7821" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="4.0270615"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.989614" cx="691.6663"
+                class="id_60068482" cy="-275.42584" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.998194"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.989614" cx="130.47388"
+                class="id_60212127" cy="361.76813" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.998194"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.816545" cx="5.716461"
+                class="id_60113209" cy="-675.8" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.9680946"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.72708" cx="677.8884"
+                class="id_60011719" cy="177.43192" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.9525354"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.63549" cx="-232.31277"
+                class="id_60025187" cy="421.87177" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.936607"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.445333" cx="728.4144"
+                class="id_60005223" cy="8.65012" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.9035363"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="22.139856" cx="122.29921"
+                class="id_60068464" cy="490.0769" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.8504097"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="21.919874" cx="1.9474487"
+                class="id_60182613" cy="628.4534" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.812152"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="21.68368" cx="-527.3742"
+                class="id_60165534" cy="-216.92963" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.7710748"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="21.427355" cx="-151.7822"
+                class="id_60257066" cy="541.8388" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.7264965"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="21.289938" cx="-357.82492"
+                class="id_60196683" cy="132.37354" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.7025979"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="20.991543" cx="443.25006"
+                class="id_60006822" cy="-201.7934" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.650703"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="20.650927" cx="636.9893"
+                class="id_60016160" cy="-128.51913" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.5914655"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="20.650927" cx="154.94968"
+                class="id_60007614" cy="-385.9809" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.5914655"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="20.244255" cx="182.09084"
+                class="id_60001296" cy="-617.6269" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.52074"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="20.000502" cx="394.24057"
+                class="id_60007562" cy="214.09444" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.478348"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="18.4" cx="-33.03907"
+                class="id_60027871" cy="-445.96857" stroke="#773c49"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="40" x="97.12806" y="-35.468903" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_DE" font-weight="bold">
+            DE
+        </text>
+        <text font-size="32" x="498.9154" y="65.2778" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60024812" font-weight="bold">
+            Semmelweis Egyetem
+        </text>
+        <text font-size="29" x="-409.01898" y="-96.3597" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60026055" font-weight="bold">
+            Hungarian University of Agriculture…
+        </text>
+        <text font-size="27" x="-282.48294" y="-510.3185" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60002536" font-weight="bold">
+            HUN-REN Institute for Nuclear Research
+        </text>
+        <text font-size="26" x="586.4783" y="-400.61484" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60007508" font-weight="bold">
+            University of Pécs Medical School
+        </text>
+        <text font-size="25" x="-274.32144" y="-253.44122" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60003548" font-weight="bold">
+            HUN-REN Wigner Research Centre for…
+        </text>
+        <text font-size="25" x="289.71335" y="575.66547" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027332" font-weight="bold">
+            Szegedi Tudományegyetem (SZTE)
+        </text>
+        <text font-size="24" x="-181.23541" y="81.39789" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60004737" font-weight="bold">
+            Pécsi Tudományegyetem
+        </text>
+        <text font-size="23" x="592.0762" y="336.69598" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60030035" font-weight="bold">
+            Budapest University of Technology and…
+        </text>
+        <text font-size="23" x="-334.1197" y="344.23627" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027811" font-weight="bold">
+            Magyar Tudomanyos Akademia
+        </text>
+        <text font-size="23" x="453.65253" y="470.56256" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60024419" font-weight="bold">
+            Pannon Egyetem
+        </text>
+        <text font-size="22" x="318.1147" y="-457.42514" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60182610" font-weight="bold">
+            HUN-REN Centre for Agricultural…
+        </text>
+        <text font-size="22" x="-488.09482" y="237.87302" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60026434" font-weight="bold">
+            HUN-REN Biological Research Centre,…
+        </text>
+        <text font-size="21" x="462.92935" y="-570.49976" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60013608" font-weight="bold">
+            Eszterházy Károly Catholic University
+        </text>
+        <text font-size="21" x="-532.7308" y="23.984241" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60068486" font-weight="bold">
+            Borsod County Teaching Hospital
+        </text>
+        <text font-size="21" x="288.56866" y="-657.04535" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60182609" font-weight="bold">
+            HUN-REN Research Centre for Natural…
+        </text>
+        <text font-size="21" x="-428.19278" y="-383.97864" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60008249" font-weight="bold">
+            Plant Protection Institute
+        </text>
+        <text font-size="21" x="-144.46777" y="-608.35345" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60015828" font-weight="bold">
+            University of Nyíregyháza
+        </text>
+        <text font-size="20" x="-14.995605" y="285.22855" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60001434" font-weight="bold">
+            Budapesti Corvinus Egyetem
+        </text>
+        <text font-size="20" x="691.6663" y="-268.9794" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60068482" font-weight="bold">
+            University of Szeged Bolyai Institute
+        </text>
+        <text font-size="20" x="130.47388" y="368.21457" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60212127" font-weight="bold">
+            University of Szeged Faculty of…
+        </text>
+        <text font-size="20" x="5.716461" y="-669.3535" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60113209" font-weight="bold">
+            Obuda University
+        </text>
+        <text font-size="20" x="677.8884" y="183.87836" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60011719" font-weight="bold">
+            Miskolci Egyetem
+        </text>
+        <text font-size="20" x="-232.31277" y="428.3182" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60025187" font-weight="bold">
+            Eötvös Loránd Tudományegyetem
+        </text>
+        <text font-size="20" x="728.4144" y="15.096565" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60005223" font-weight="bold">
+            University of Veterinary Medicine…
+        </text>
+        <text font-size="19" x="122.29921" y="496.18787" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60068464" font-weight="bold">
+            Szegedi Tudományegyetem Általános…
+        </text>
+        <text font-size="19" x="1.9474487" y="634.5644" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60182613" font-weight="bold">
+            HUN-REN Centre for Ecological Research
+        </text>
+        <text font-size="19" x="-527.3742" y="-210.81866" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60165534" font-weight="bold">
+            ScanoMed
+        </text>
+        <text font-size="19" x="-151.7822" y="547.94977" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60257066" font-weight="bold">
+            John von Neumann University
+        </text>
+        <text font-size="19" x="-357.82492" y="138.4845" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60196683" font-weight="bold">
+            HUN-REN Centre for Energy Research
+        </text>
+        <text font-size="18" x="443.25006" y="-195.98178" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60006822" font-weight="bold">
+            Soproni Egyetem
+        </text>
+        <text font-size="18" x="636.9893" y="-122.70753" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60016160" font-weight="bold">
+            Széchenyi István University
+        </text>
+        <text font-size="18" x="154.94968" y="-380.16928" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60007614" font-weight="bold">
+            Institute of Technical Physics and…
+        </text>
+        <text font-size="18" x="182.09084" y="-611.8153" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60001296" font-weight="bold">
+            Institute of Molecular Life Sciences
+        </text>
+        <text font-size="17" x="394.24057" y="219.83894" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60007562" font-weight="bold">
+            Pazmany Peter Katolikus Egyetem
+        </text>
+        <text font-size="16" x="-33.03907" y="-440.6834" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027871" font-weight="bold">
+            Hungarian University of Sports Science
+        </text>
+    </g>
+</svg>

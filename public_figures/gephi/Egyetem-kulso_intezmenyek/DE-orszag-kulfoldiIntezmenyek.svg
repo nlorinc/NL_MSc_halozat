@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2185.1904"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-5532.400391 -4541.751953 2185.190430 1993.751953"
+     height="1993.752" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_USA"
+              d="M -4442.030273,-3471.202393 A 208.260706,208.260706 0,0 1,-4432.244629,-3337.947266"
+              stroke="#48c17a" stroke-width="48.824062" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_DEU"
+              d="M -4497.585449,-3601.183350 A 289.092218,289.092218 0,0 1,-4425.928711,-3825.612793"
+              stroke="#5ac054" stroke-width="28.000862" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_GBR"
+              d="M -4517.571289,-3469.847168 A 253.421926,253.421926 0,0 1,-4685.883789,-3377.217529"
+              stroke="#99a944" stroke-width="25.503948" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_ROU"
+              d="M -4542.275879,-3568.507813 A 328.029416,328.029416 0,0 1,-4671.101563,-3830.973145"
+              stroke="#7cb93b" stroke-width="19.808617" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_POL"
+              d="M -4410.151367,-3543.123291 A 243.605642,243.605642 0,0 1,-4235.926758,-3473.656738"
+              stroke="#7eb47f" stroke-width="15.096773" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_ITA"
+              d="M -4549.064941,-3509.241699 A 362.447216,362.447216 0,0 1,-4866.646973,-3591.606201"
+              stroke="#99a86e" stroke-width="14.860339" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_EGY"
+              d="M -4430.793457,-3582.744141 A 280.626769,280.626769 0,0 1,-4198.942871,-3637.222656"
+              stroke="#99a352" stroke-width="14.62195" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none" class="id_DE id_COUNTRY_CHN"
+              d="M -4416.279785,-3500.379150 A 392.083343,392.083343 0,0 1,-4226.100586,-3181.151855"
+              stroke="#99b032" stroke-width="12.267974" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60001117"
+              d="M -4428.596680,-3229.428955 A 166.592324,166.592324 0,0 1,-4446.453125,-3095.714111"
+              stroke="#5de9f5" stroke-width="2.843394" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60029833"
+              d="M -4424.335938,-3231.785400 A 304.579125,304.579125 0,0 1,-4448.578125,-2926.429199"
+              stroke="#5de9f5" stroke-width="2.3579674" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60002507"
+              d="M -4461.954102,-3223.466309 A 156.593685,156.593685 0,0 1,-4545.902832,-3127.906494"
+              stroke="#5de9f5" stroke-width="2.645707" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60021519"
+              d="M -4461.667480,-3223.435059 A 274.545023,274.545023 0,0 1,-4642.229492,-3021.794922"
+              stroke="#5de9f5" stroke-width="2.3370035" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60012414"
+              d="M -4423.873535,-3232.069092 A 238.134985,238.134985 0,0 1,-4439.053223,-3005.828613"
+              stroke="#5de9f5" stroke-width="2.3159368" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60023242"
+              d="M -4480.222656,-3228.520752 A 204.767016,204.767016 0,0 1,-4642.523438,-3135.441650"
+              stroke="#5de9f5" stroke-width="2.7662513" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60029251"
+              d="M -4440.096191,-3225.083008 A 290.995268,290.995268 0,0 1,-4545.811035,-2952.793457"
+              stroke="#5de9f5" stroke-width="2.1217585" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_USA id_60005248"
+              d="M -4446.014648,-3223.835938 A 213.782315,213.782315 0,0 1,-4535.453613,-3046.319824"
+              stroke="#5de9f5" stroke-width="2.2723086" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60102538"
+              d="M -4400.777344,-3919.255371 A 275.233449,275.233449 0,0 1,-4326.399414,-4167.450684"
+              stroke="#81e7a9" stroke-width="2.199806" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60028229"
+              d="M -4373.992188,-3921.066895 A 289.031437,289.031437 0,0 1,-4182.514648,-4120.110840"
+              stroke="#81e7a9" stroke-width="2.1028898" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60019722"
+              d="M -4394.349121,-3920.867432 A 166.719544,166.719544 0,0 1,-4338.045410,-4048.278076"
+              stroke="#81e7a9" stroke-width="2.1589842" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60016908"
+              d="M -4358.039063,-3915.869141 A 170.818958,170.818958 0,0 1,-4229.912109,-3985.700439"
+              stroke="#81e7a9" stroke-width="2.2937665" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60028717"
+              d="M -4420.707520,-3908.295898 A 236.489910,236.489910 0,0 1,-4439.347168,-4133.343262"
+              stroke="#81e7a9" stroke-width="2.0485125" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60000291"
+              d="M -4411.758789,-3914.511719 A 281.714288,281.714288 0,0 1,-4379.488770,-4194.858887"
+              stroke="#81e7a9" stroke-width="1.9127342" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60024025"
+              d="M -4412.529785,-3914.070313 A 373.709651,373.709651 0,0 1,-4371.880859,-4305.294922"
+              stroke="#81e7a9" stroke-width="1.914025" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_DEU id_60018353"
+              d="M -4407.035645,-3916.887451 A 562.795998,562.795998 0,0 1,-4273.846680,-4523.945313"
+              stroke="#81e7a9" stroke-width="1.7853055" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60011520"
+              d="M -4745.524414,-3320.139160 A 150.080497,150.080497 0,0 1,-4814.563965,-3226.419922"
+              stroke="#ffba88" stroke-width="3.4182398" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60003771"
+              d="M -4782.993164,-3336.511719 A 157.703711,157.703711 0,0 1,-4908.931641,-3312.086914"
+              stroke="#ffba88" stroke-width="2.4904103" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60022148"
+              d="M -4770.149902,-3326.991211 A 228.936402,228.936402 0,0 1,-4963.664063,-3231.615967"
+              stroke="#ffba88" stroke-width="2.3362157" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60015150"
+              d="M -4757.616699,-3322.002441 A 265.291407,265.291407 0,0 1,-4960.117676,-3156.010254"
+              stroke="#ffba88" stroke-width="2.2137809" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60006222"
+              d="M -4779.159180,-3333.058350 A 419.459034,419.459034 0,0 1,-5213.915527,-3221.890625"
+              stroke="#ffba88" stroke-width="1.9163243" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60026851"
+              d="M -4737.870117,-3320.305420 A 222.029715,222.029715 0,0 1,-4845.299316,-3138.901123"
+              stroke="#ffba88" stroke-width="2.1866605" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60021097"
+              d="M -4782.876953,-3336.397217 A 245.857763,245.857763 0,0 1,-5019.515137,-3296.051758"
+              stroke="#ffba88" stroke-width="2.3149416" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_GBR id_60031101"
+              d="M -4766.888184,-3325.353516 A 350.785814,350.785814 0,0 1,-5087.865234,-3147.612305"
+              stroke="#ffba88" stroke-width="1.9988438" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60026575"
+              d="M -4688.583984,-3920.339355 A 133.029424,133.029424 0,0 1,-4675.096680,-4026.113281"
+              stroke="#c6da76" stroke-width="5.6175513" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60003322"
+              d="M -4712.371582,-3892.692383 A 205.475824,205.475824 0,0 1,-4830.573242,-4053.097168"
+              stroke="#c6da76" stroke-width="2.309731" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60027373"
+              d="M -4714.667969,-3879.413574 A 157.698371,157.698371 0,0 1,-4828.741211,-3966.175781"
+              stroke="#c6da76" stroke-width="3.3263958" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60078586"
+              d="M -4708.660156,-3901.175537 A 114.966363,114.966363 0,0 1,-4747.967773,-3983.990723"
+              stroke="#c6da76" stroke-width="2.988311" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60104059"
+              d="M -4695.659180,-3915.980957 A 251.805410,251.805410 0,0 1,-4697.561523,-4174.396973"
+              stroke="#c6da76" stroke-width="2.1522226" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60033150"
+              d="M -4705.937500,-3905.475830 A 322.373568,322.373568 0,0 1,-4812.748535,-4233.193359"
+              stroke="#c6da76" stroke-width="1.9870479" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_60007507"
+              d="M -4708.642578,-3901.206299 A 250.959183,250.959183 0,0 1,-4814.980469,-4137.215820"
+              stroke="#c6da76" stroke-width="2.070653" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ROU id_126377179"
+              d="M -4620.217285,-3879.967773 A 86.525195,86.525195 0,0 1,-4571.252930,-3847.725586"
+              stroke="#c6da76" stroke-width="1.6274688" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60007108"
+              d="M -4159.945313,-3456.204346 A 289.423028,289.423028 0,0 1,-3867.982422,-3396.468018"
+              stroke="#c9cfff" stroke-width="1.9157903" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60021323"
+              d="M -4155.695313,-3438.829102 A 329.213981,329.213981 0,0 1,-3863.228027,-3248.549561"
+              stroke="#c9cfff" stroke-width="1.8580798" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60069009"
+              d="M -4162.264648,-3460.709229 A 435.220472,435.220472 0,0 1,-3688.588867,-3409.223633"
+              stroke="#c9cfff" stroke-width="1.7932557" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60008931"
+              d="M -4159.572754,-3455.356201 A 201.510167,201.510167 0,0 1,-3969.205566,-3412.270020"
+              stroke="#c9cfff" stroke-width="2.5921881" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60082121"
+              d="M -4155.741699,-3439.553711 A 161.648146,161.648146 0,0 1,-4030.537598,-3362.143311"
+              stroke="#c9cfff" stroke-width="2.8273184" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60015509"
+              d="M -4156.187500,-3428.642822 A 212.000521,212.000521 0,0 1,-4008.262207,-3281.461670"
+              stroke="#c9cfff" stroke-width="2.8434176" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60016104"
+              d="M -4169.069824,-3469.784912 A 165.592925,165.592925 0,0 1,-4018.006836,-3489.992676"
+              stroke="#c9cfff" stroke-width="2.6743755" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_POL id_60069011"
+              d="M -4159.542969,-3455.287354 A 611.523413,611.523413 0,0 1,-3489.156250,-3294.273682"
+              stroke="#c9cfff" stroke-width="1.7150886" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60028218"
+              d="M -4930.995605,-3583.201660 A 274.576202,274.576202 0,0 1,-5161.006348,-3466.330322"
+              stroke="#ffb7dd" stroke-width="2.2537603" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60017293"
+              d="M -4950.622559,-3602.138428 A 207.999577,207.999577 0,0 1,-5128.143555,-3606.196777"
+              stroke="#ffb7dd" stroke-width="2.257052" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60010146"
+              d="M -4958.433105,-3634.189697 A 306.503563,306.503563 0,0 1,-5192.327148,-3817.750732"
+              stroke="#ffb7dd" stroke-width="2.4298398" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60000481"
+              d="M -4958.342285,-3635.309814 A 192.952403,192.952403 0,0 1,-5084.612305,-3733.041016"
+              stroke="#ffb7dd" stroke-width="2.2239077" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60022778"
+              d="M -4952.110352,-3604.730713 A 351.781348,351.781348 0,0 1,-5302.743164,-3643.003662"
+              stroke="#ffb7dd" stroke-width="2.0074506" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60025153"
+              d="M -4950.849121,-3658.230225 A 248.147827,248.147827 0,0 1,-5048.727051,-3863.579102"
+              stroke="#ffb7dd" stroke-width="2.2830236" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60012306"
+              d="M -4957.135742,-3618.002441 A 407.302408,407.302408 0,0 1,-5347.862793,-3773.308350"
+              stroke="#ffb7dd" stroke-width="1.9454993" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_ITA id_60021859"
+              d="M -4941.327637,-3590.756592 A 383.085439,383.085439 0,0 1,-5323.726074,-3507.592529"
+              stroke="#ffb7dd" stroke-width="1.9668912" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60027423"
+              d="M -4135.274902,-3662.245117 A 570.893583,570.893583 0,0 1,-3560.030029,-3914.435791"
+              stroke="#ffaea5" stroke-width="1.8197424" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60115114"
+              d="M -4128.475586,-3657.235840 A 441.379224,441.379224 0,0 1,-3667.602051,-3762.220459"
+              stroke="#ffaea5" stroke-width="1.7869188" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60025733"
+              d="M -4136.388672,-3662.886475 A 129.402003,129.402003 0,0 1,-4044.853027,-3711.029541"
+              stroke="#ffaea5" stroke-width="4.4530377" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60016618"
+              d="M -4156.840332,-3668.336426 A 180.494022,180.494022 0,0 1,-4057.534912,-3806.317871"
+              stroke="#ffaea5" stroke-width="2.6176252" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60216969"
+              d="M -4126.433105,-3655.272949 A 201.699897,201.699897 0,0 1,-3931.802734,-3685.672607"
+              stroke="#ffaea5" stroke-width="2.5495677" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60217037"
+              d="M -4140.513672,-3664.901855 A 213.059875,213.059875 0,0 1,-3960.523438,-3775.135742"
+              stroke="#ffaea5" stroke-width="2.4959035" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60010294"
+              d="M -4132.020508,-3660.102783 A 271.775629,271.775629 0,0 1,-3864.071777,-3748.337891"
+              stroke="#ffaea5" stroke-width="2.0343075" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_EGY id_60012022"
+              d="M -4116.130859,-3638.013672 A 171.541016,171.541016 0,0 1,-3962.764648,-3588.612549"
+              stroke="#ffaea5" stroke-width="2.4463072" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60021182"
+              d="M -4189.607910,-3108.937256 A 332.381960,332.381960 0,0 1,-4074.442383,-2790.157227"
+              stroke="#ffc764" stroke-width="1.8234743" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60014966"
+              d="M -4182.323730,-3145.991211 A 302.167855,302.167855 0,0 1,-3900.007813,-3037.174316"
+              stroke="#ffc764" stroke-width="1.8140666" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60003970"
+              d="M -4183.351563,-3121.319336 A 235.104284,235.104284 0,0 1,-4046.215088,-2947.369385"
+              stroke="#ffc764" stroke-width="1.8453486" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60025278"
+              d="M -4203.297363,-3096.308350 A 416.364602,416.364602 0,0 1,-4235.094238,-2657.110352"
+              stroke="#ffc764" stroke-width="1.8111147" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60027631"
+              d="M -4184.838867,-3117.385986 A 475.460949,475.460949 0,0 1,-3918.658203,-2680.517578"
+              stroke="#ffc764" stroke-width="1.7882241" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60009860"
+              d="M -4201.696777,-3097.312988 A 252.663920,252.663920 0,0 1,-4204.351074,-2854.354980"
+              stroke="#ffc764" stroke-width="1.8412831" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60013789"
+              d="M -4181.238770,-3131.917236 A 418.931588,418.931588 0,0 1,-3839.269775,-2849.188721"
+              stroke="#ffc764" stroke-width="1.7855955" stroke-opacity="0.4"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_COUNTRY_CHN id_60019118"
+              d="M -4192.502930,-3105.292969 A 487.500489,487.500489 0,0 1,-4073.396973,-2588.476563"
+              stroke="#ffc764" stroke-width="1.7528452" stroke-opacity="0.4"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#339900" r="65.96274" cx="-4480.894"
+                class="id_DE" cy="-3531.4546" stroke="#194c00"
+                stroke-opacity="1.0" stroke-width="11.471781"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="54.968952" cx="-4455.3574"
+                class="id_COUNTRY_USA" cy="-3282.8499" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="9.559817"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="52.837273" cx="-4383.6167"
+                class="id_COUNTRY_DEU" cy="-3864.4473" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="9.189091"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="52.485336" cx="-4742.933"
+                class="id_COUNTRY_GBR" cy="-3377.1296" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="9.127884"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="43.473072" cx="-4667.433"
+                class="id_COUNTRY_ROU" cy="-3878.084" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="7.560534"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="45.028057" cx="-4204.562"
+                class="id_COUNTRY_POL" cy="-3436.084" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="7.830966"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="49.80391" cx="-4904.433"
+                class="id_COUNTRY_ITA" cy="-3630.3716" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="8.66155"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="39.80508" cx="-4157.417"
+                class="id_COUNTRY_EGY" cy="-3625.074" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="6.9226227"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="42.017353" cx="-4226.77"
+                class="id_COUNTRY_CHN" cy="-3135.4858" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="7.3073654"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="28.116554" cx="-5191.483"
+                class="id_60028218" cy="-3468.6094" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.8898354"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="27.530827" cx="-5153.874"
+                class="id_60017293" cy="-3621.4756" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.78797"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="27.446001" cx="-5202.5654"
+                class="id_60010146" cy="-3845.7715" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.773217"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="27.017427" cx="-5096.3013"
+                class="id_60000481" cy="-3759.9814" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.6986833"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="26.756668" cx="-5325.445"
+                class="id_60022778" cy="-3661.1824" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.6533337"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="26.493134" cx="-5046.156"
+                class="id_60025153" cy="-3892.261" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.6075015"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="25.95751" cx="-5364.1523"
+                class="id_60012306" cy="-3796.3457" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.5143495"/>
+        <circle fill-opacity="1.0" fill="#ffb7dd" r="25.867107" cx="-5350.0537"
+                class="id_60021859" cy="-3517.4614" stroke="#7f5b6e"
+                stroke-opacity="1.0" stroke-width="4.498627"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="24.755886" cx="-4306.54"
+                class="id_60102538" cy="-4185.608" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="4.3053713"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="24.374218" cx="-4156.9165"
+                class="id_60028229" cy="-4126.942" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="4.238994"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="24.27789" cx="-3534.1282"
+                class="id_60027423" cy="-3909.3892" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="4.2222414"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="24.27789" cx="-4080.4087"
+                class="id_60021182" cy="-2764.4517" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.2222414"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="24.181183" cx="-3884.4158"
+                class="id_60014966" cy="-3016.0146" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.2054234"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="24.084106" cx="-4043.0452"
+                class="id_60003970" cy="-2921.3835" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.1885405"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="24.084106" cx="-4251.163"
+                class="id_60025278" cy="-2636.444" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.1885405"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="23.986654" cx="-3919.9153"
+                class="id_60027631" cy="-2654.4753" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.171592"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="23.88882" cx="-3643.3977"
+                class="id_60115114" cy="-3752.8186" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="4.1545773"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="23.88882" cx="-4218.23"
+                class="id_60009860" cy="-2832.4094" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.1545773"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="23.790598" cx="-3831.8508"
+                class="id_60013789" cy="-2824.4165" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="4.1374955"/>
+        <circle fill-opacity="1.0" fill="#ffc764" r="19.275478" cx="-4080.976"
+                class="id_60019118" cy="-2568.9438" stroke="#7f6332"
+                stroke-opacity="1.0" stroke-width="3.352257"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="15.329843" cx="-4028.1907"
+                class="id_60025733" cy="-3711.1738" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="2.6660595"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="14.912523" cx="-4828.9146"
+                class="id_60011520" cy="-3218.883" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="2.5934823"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="14.200847" cx="-4455.117"
+                class="id_60001117" cy="-3082.9392" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="2.4697125"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="12.865102" cx="-4667.296"
+                class="id_60026575" cy="-4037.7192" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="2.237409"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="12.402979" cx="-4921.9243"
+                class="id_60003771" cy="-3315.6836" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="2.1570396"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="12.08989" cx="-4327.863"
+                class="id_60019722" cy="-4056.585" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="2.1025894"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="11.772662" cx="-4976.437"
+                class="id_60022148" cy="-3232.3918" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="2.0474193"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="10.960629" cx="-4046.6743"
+                class="id_60016618" cy="-3811.215" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="1.9061964"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="10.459713" cx="-4218.5464"
+                class="id_60016908" cy="-3985.978" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="1.8190805"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="10.459713" cx="-4434.513"
+                class="id_60028717" cy="-4143.634" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="1.8190805"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="10.290348" cx="-4455.1177"
+                class="id_60029833" cy="-2917.355" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.7896256"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="9.600368" cx="-4555.5205"
+                class="id_60002507" cy="-3123.858" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.669629"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="9.600368" cx="-4652.1797"
+                class="id_60021519" cy="-3018.6511" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.669629"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="9.600368" cx="-4970.434"
+                class="id_60015150" cy="-3154.442" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="1.669629"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="9.600368" cx="-3860.4233"
+                class="id_60007108" cy="-3389.274" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="1.669629"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="9.600368" cx="-3922.1162"
+                class="id_60216969" cy="-3681.7913" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="1.669629"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="9.424634" cx="-4444.7075"
+                class="id_60012414" cy="-2997.2864" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.6390667"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="9.247562" cx="-3950.472"
+                class="id_60217037" cy="-3775.2134" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="1.6082716"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="9.069124" cx="-3854.51"
+                class="id_60010294" cy="-3745.9402" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="1.5772389"/>
+        <circle fill-opacity="1.0" fill="#ffaea5" r="8.8892975" cx="-3956.2344"
+                class="id_60012022" cy="-3581.4912" stroke="#7f5752"
+                stroke-opacity="1.0" stroke-width="1.5459648"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="8.708058" cx="-4373.7153"
+                class="id_60000291" cy="-4202.3594" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="1.5144448"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="8.525375" cx="-4651.7876"
+                class="id_60023242" cy="-3135.223" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.4826739"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="8.525375" cx="-4366.1255"
+                class="id_60024025" cy="-4312.5576" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="1.4826739"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="8.525375" cx="-5222.697"
+                class="id_60006222" cy="-3224.8506" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="1.4826739"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="8.341226" cx="-4831.5396"
+                class="id_60003322" cy="-4062.112" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="1.4506478"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="8.15558" cx="-4852.986"
+                class="id_60026851" cy="-3134.485" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="1.4183617"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="7.968409" cx="-4552.6543"
+                class="id_60029251" cy="-2947.4844" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.3858103"/>
+        <circle fill-opacity="1.0" fill="#5de9f5" r="7.7796845" cx="-4542.429"
+                class="id_60005248" cy="-3041.5396" stroke="#2e747a"
+                stroke-opacity="1.0" stroke-width="1.3529886"/>
+        <circle fill-opacity="1.0" fill="#81e7a9" r="7.7796845" cx="-4267.731"
+                class="id_60018353" cy="-4529.7856" stroke="#407354"
+                stroke-opacity="1.0" stroke-width="1.3529886"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="7.7796845" cx="-5027.434"
+                class="id_60021097" cy="-3299.0176" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="1.3529886"/>
+        <circle fill-opacity="1.0" fill="#ffba88" r="7.5893736" cx="-5096.1016"
+                class="id_60031101" cy="-3148.0771" stroke="#7f5d44"
+                stroke-opacity="1.0" stroke-width="1.319891"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="6.412355" cx="-3860.3547"
+                class="id_60021323" cy="-3242.1995" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="1.1151922"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="6.412355" cx="-3683.2378"
+                class="id_60069009" cy="-3404.7573" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="1.1151922"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="6.2099915" cx="-4831.5396"
+                class="id_60027373" cy="-3972.3184" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="1.0799985"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="6.0057545" cx="-3964.404"
+                class="id_60008931" cy="-3407.8474" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="1.044479"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="5.5914884" cx="-4748.0083"
+                class="id_60078586" cy="-3990.0684" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="0.9724328"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="5.5914884" cx="-4027.4885"
+                class="id_60082121" cy="-3356.8857" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="0.9724328"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="5.169201" cx="-4006.8171"
+                class="id_60015509" cy="-3276.032" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="0.89899147"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="5.169201" cx="-4012.7527"
+                class="id_60016104" cy="-3488.0017" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="0.89899147"/>
+        <circle fill-opacity="1.0" fill="#c9cfff" r="5.169201" cx="-3485.4026"
+                class="id_60069011" cy="-3290.0928" stroke="#64677f"
+                stroke-opacity="1.0" stroke-width="0.89899147"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="4.954931" cx="-4694.782"
+                class="id_60104059" cy="-4179.0103" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="0.86172706"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="3.6221576" cx="-4811.755"
+                class="id_60033150" cy="-4237.003" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="0.62994045"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="3.3916173" cx="-4814.5176"
+                class="id_60007507" cy="-4140.873" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="0.5898465"/>
+        <circle fill-opacity="1.0" fill="#c6da76" r="3.3916173" cx="-4569.1064"
+                class="id_126377179" cy="-3844.7285" stroke="#636d3b"
+                stroke-opacity="1.0" stroke-width="0.5898465"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-4480.894" y="-3519.0674" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_DE" font-weight="bold">
+            DE
+        </text>
+        <text font-size="38" x="-4455.3574" y="-3270.463" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_USA" font-weight="bold">
+            USA
+        </text>
+        <text font-size="38" x="-4383.6167" y="-3852.06" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_DEU" font-weight="bold">
+            DEU
+        </text>
+        <text font-size="38" x="-4742.933" y="-3364.7427" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_GBR" font-weight="bold">
+            GBR
+        </text>
+        <text font-size="38" x="-4667.433" y="-3865.6968" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_ROU" font-weight="bold">
+            ROU
+        </text>
+        <text font-size="38" x="-4204.562" y="-3423.6968" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_POL" font-weight="bold">
+            POL
+        </text>
+        <text font-size="38" x="-4904.433" y="-3617.9844" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_ITA" font-weight="bold">
+            ITA
+        </text>
+        <text font-size="38" x="-4157.417" y="-3612.687" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_EGY" font-weight="bold">
+            EGY
+        </text>
+        <text font-size="38" x="-4226.77" y="-3123.0986" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_COUNTRY_CHN" font-weight="bold">
+            CHN
+        </text>
+        <text font-size="21" x="-5191.483" y="-3461.7346" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60028218" font-weight="bold">
+            Alma Mater Studiorum Università di…
+        </text>
+        <text font-size="21" x="-5153.874" y="-3614.6008" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60017293" font-weight="bold">
+            Università degli Studi di Napoli…
+        </text>
+        <text font-size="21" x="-5202.5654" y="-3838.8967" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60010146" font-weight="bold">
+            Università degli Studi di Catania
+        </text>
+        <text font-size="21" x="-5096.3013" y="-3753.1067" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60000481" font-weight="bold">
+            Università degli Studi di Padova
+        </text>
+        <text font-size="21" x="-5325.445" y="-3654.3076" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60022778" font-weight="bold">
+            Università degli studi di Bari Aldo…
+        </text>
+        <text font-size="21" x="-5046.156" y="-3885.3862" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60025153" font-weight="bold">
+            Università degli Studi di Genova
+        </text>
+        <text font-size="21" x="-5364.1523" y="-3789.471" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60012306" font-weight="bold">
+            Università degli Studi di Milano-…
+        </text>
+        <text font-size="21" x="-5350.0537" y="-3510.5867" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60021859" font-weight="bold">
+            Università degli Studi di Firenze
+        </text>
+        <text font-size="21" x="-4306.54" y="-4178.733" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60102538" font-weight="bold">
+            Karlsruher Institut für Technologie
+        </text>
+        <text font-size="21" x="-4156.9165" y="-4120.067" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60028229" font-weight="bold">
+            Universität Hamburg
+        </text>
+        <text font-size="21" x="-3534.1282" y="-3902.5144" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027423" font-weight="bold">
+            Fayoum University
+        </text>
+        <text font-size="21" x="-4080.4087" y="-2757.577" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60021182" font-weight="bold">
+            Sun Yat-Sen University
+        </text>
+        <text font-size="21" x="-3884.4158" y="-3009.14" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60014966" font-weight="bold">
+            Peking University
+        </text>
+        <text font-size="21" x="-4043.0452" y="-2914.5088" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60003970" font-weight="bold">
+            Zhejiang University
+        </text>
+        <text font-size="21" x="-4251.163" y="-2629.5693" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60025278" font-weight="bold">
+            Tsinghua University
+        </text>
+        <text font-size="21" x="-3919.9153" y="-2647.6006" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027631" font-weight="bold">
+            Institute of High Energy Physics,…
+        </text>
+        <text font-size="21" x="-3643.3977" y="-3745.9438" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60115114" font-weight="bold">
+            Academy of Scientific Research&amp;…
+        </text>
+        <text font-size="21" x="-4218.23" y="-2825.5347" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60009860" font-weight="bold">
+            Fudan University
+        </text>
+        <text font-size="21" x="-3831.8508" y="-2817.5417" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60013789" font-weight="bold">
+            Beihang University
+        </text>
+        <text font-size="21" x="-4080.976" y="-2562.069" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60019118" font-weight="bold">
+            University of Science and Technology…
+        </text>
+        <text font-size="21" x="-4028.1907" y="-3704.299" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60025733" font-weight="bold">
+            Kafrelsheikh University
+        </text>
+        <text font-size="21" x="-4828.9146" y="-3212.0083" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60011520" font-weight="bold">
+            King&apos;s College London
+        </text>
+        <text font-size="21" x="-4455.117" y="-3076.0645" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60001117" font-weight="bold">
+            Johns Hopkins University School of…
+        </text>
+        <text font-size="21" x="-4667.296" y="-4030.8445" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60026575" font-weight="bold">
+            University of Oradea
+        </text>
+        <text font-size="21" x="-4921.9243" y="-3308.8088" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60003771" font-weight="bold">
+            The University of Manchester
+        </text>
+        <text font-size="21" x="-4327.863" y="-4049.7102" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60019722" font-weight="bold">
+            Technische Universität München
+        </text>
+        <text font-size="21" x="-4046.6743" y="-3804.3403" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60016618" font-weight="bold">
+            Ain Shams University
+        </text>
+        <text font-size="21" x="-4218.5464" y="-3979.1033" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60016908" font-weight="bold">
+            Universität Heidelberg
+        </text>
+        <text font-size="21" x="-4455.1177" y="-2910.4802" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60029833" font-weight="bold">
+            University of Oklahoma Health Sciences…
+        </text>
+        <text font-size="21" x="-4555.5205" y="-3116.9832" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60002507" font-weight="bold">
+            Johns Hopkins All Children&apos;s Hospital
+        </text>
+        <text font-size="21" x="-4652.1797" y="-3011.7764" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60021519" font-weight="bold">
+            University of Miami Leonard M. Miller…
+        </text>
+        <text font-size="21" x="-4970.434" y="-3147.5671" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60015150" font-weight="bold">
+            Imperial College London
+        </text>
+        <text font-size="21" x="-3860.4233" y="-3382.3992" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60007108" font-weight="bold">
+            Wroclaw Medical University
+        </text>
+        <text font-size="21" x="-3950.472" y="-3768.3386" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60217037" font-weight="bold">
+            College of Education
+        </text>
+        <text font-size="21" x="-3956.2344" y="-3574.6165" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60012022" font-weight="bold">
+            Mansoura University
+        </text>
+        <text font-size="21" x="-4366.1255" y="-4305.6826" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60024025" font-weight="bold">
+            Universität zu Köln
+        </text>
+        <text font-size="21" x="-5222.697" y="-3217.9758" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60006222" font-weight="bold">
+            Newcastle University
+        </text>
+        <text font-size="21" x="-4831.5396" y="-4055.2373" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60003322" font-weight="bold">
+            George Emil Palade University of…
+        </text>
+        <text font-size="21" x="-4552.6543" y="-2940.6096" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60029251" font-weight="bold">
+            University of Miami
+        </text>
+        <text font-size="21" x="-4267.731" y="-4522.9106" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60018353" font-weight="bold">
+            Technische Universität Dresden
+        </text>
+        <text font-size="21" x="-3860.3547" y="-3235.3247" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60021323" font-weight="bold">
+            Jagiellonian University Medical College
+        </text>
+        <text font-size="21" x="-4831.5396" y="-3965.4436" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60027373" font-weight="bold">
+            Universitatea Tehnica din Cluj-Napoca
+        </text>
+        <text font-size="21" x="-4027.4885" y="-3350.011" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60082121" font-weight="bold">
+            Kazimierz Wielki University in…
+        </text>
+        <text font-size="21" x="-4006.8171" y="-3269.1572" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60015509" font-weight="bold">
+            Uniwersytet Pedagogiczny im. Komisji…
+        </text>
+        <text font-size="21" x="-4012.7527" y="-3481.127" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60016104" font-weight="bold">
+            Lodz University of Technology
+        </text>
+        <text font-size="21" x="-3485.4026" y="-3283.218" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60069011" font-weight="bold">
+            Medical University of Lublin
+        </text>
+        <text font-size="21" x="-4694.782" y="-4172.1353" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60104059" font-weight="bold">
+            University of Life Sciences “King…
+        </text>
+        <text font-size="21" x="-4811.755" y="-4230.128" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60033150" font-weight="bold">
+            Universitatea de Medicina si Farmacie…
+        </text>
+        <text font-size="21" x="-4814.5176" y="-4133.998" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_60007507" font-weight="bold">
+            &quot;Universitatea de Vest&quot;Vasile Goldiş”&quot;
+        </text>
+    </g>
+</svg>

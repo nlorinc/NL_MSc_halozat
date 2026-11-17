@@ -1,0 +1,439 @@
+{
+  "title": "NL_MSc_halozat – public_figures",
+  "format": "SVG",
+  "count": 48,
+  "files": [
+    {
+      "path": "gephi/Egyetem-kulso_intezmenyek/DE-hazaiIntezmenyek.svg",
+      "bytes": 24600,
+      "sha256": "3c1804bb529243a401ec95fd9d3754712e25080532c437155b855ceae1bae343",
+      "viewBox": "-698.128662 -701.000000 1590.310547 1354.000000",
+      "width": "1590.3105",
+      "height": "1354.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem-kulso_intezmenyek/DE-orszag-kulfoldiIntezmenyek.svg",
+      "bytes": 51288,
+      "sha256": "079b98484242e2fc1e8a1aa36d8c8436fe91c19d5e387d3ddc7f6b36061f904f",
+      "viewBox": "-5532.400391 -4541.751953 2185.190430 1993.751953",
+      "width": "2185.1904",
+      "height": "1993.752",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem_kar-kar/svg/kar-kar_fract_midSlope.svg",
+      "bytes": 26285,
+      "sha256": "cc5cee1e6517a1bd9c650d0bdd3eb3f97c4241fadc0a82537271823eabbd30b1",
+      "viewBox": "-899.000000 -928.000000 1816.871338 1818.000000",
+      "width": "1816.8713",
+      "height": "1818.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem_kar-kar/svg/kar-kar_pubcount_midSlope.svg",
+      "bytes": 26294,
+      "sha256": "3211539eddb50447aae016c78b8b7b56ee2fcb30784753d9f6386d28a73954ce",
+      "viewBox": "-899.000000 -928.000000 1816.871338 1818.000000",
+      "width": "1816.8713",
+      "height": "1818.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem_osszes/svg/DE_szerzo-szerzo_karSzin.svg",
+      "bytes": 24460287,
+      "sha256": "1bd287428f26a52421052b57326b8696f28c6ddd3f34ce48b64c3821e4109a43",
+      "viewBox": "-9535.984375 -9490.000000 19990.984375 19160.000000",
+      "width": "19990.984",
+      "height": "19160.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem_osszes/svg/DE_szerzo-szerzo_katSzin.svg",
+      "bytes": 24460287,
+      "sha256": "650fe4b6e72d670472df56cbaabb1d70a6813c0e2a3902cb1e873a8ec43a31e7",
+      "viewBox": "-9535.984375 -9490.000000 19990.984375 19160.000000",
+      "width": "19990.984",
+      "height": "19160.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Egyetem_osszes/svg/DE_szerzo-szerzo_modularitySzin.svg",
+      "bytes": 24460287,
+      "sha256": "382a978e43c449a443124dc1bebe08f3ff5ec7dc72734031d60c6aa242365d60",
+      "viewBox": "-9535.984375 -9490.000000 19990.984375 19160.000000",
+      "width": "19990.984",
+      "height": "19160.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/GTK/GTK_BC.svg",
+      "bytes": 229642,
+      "sha256": "21d71b7e4c8fbc932e9892a0729e127f8e4325403310bd2d862fcc55e895de98",
+      "viewBox": "-773.000000 -1216.000000 2129.000000 1877.000000",
+      "width": "2129.0",
+      "height": "1877.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/GTK/GTK_H-ind.svg",
+      "bytes": 229747,
+      "sha256": "b4cfc92682d06489640d997981629f6984e6f39621f1df0b52660aa2e3cbc2fe",
+      "viewBox": "-773.000000 -1216.000000 2129.000000 1877.000000",
+      "width": "2129.0",
+      "height": "1877.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/GTK/GTK_WD.svg",
+      "bytes": 229264,
+      "sha256": "6e2f927408fbeec1bff9f4a9c437e2417b8885c57fd0c237d9ee26f0f8e61d00",
+      "viewBox": "-773.000000 -1216.000000 2129.000000 1877.000000",
+      "width": "2129.0",
+      "height": "1877.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/GTK/GTK_kat.svg",
+      "bytes": 243138,
+      "sha256": "4754d11c935a5aff0b617305b17f8bf5b0fee68b8e331ecce1e6f14f910827dc",
+      "viewBox": "-773.000000 -1216.000000 2129.000000 1877.000000",
+      "width": "2129.0",
+      "height": "1877.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/GTK/GTK_modularity.svg",
+      "bytes": 243138,
+      "sha256": "ecd660eddbe8108585e8a47d53a15322111d3466483c2f0aee349d8d1302abc0",
+      "viewBox": "-773.000000 -1216.000000 2129.000000 1877.000000",
+      "width": "2129.0",
+      "height": "1877.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/IK/IK_BC.svg",
+      "bytes": 218111,
+      "sha256": "e60483c603448169cc2ca8b1ee19b8e83cdd0f1e92990ed6716945f3f5804395",
+      "viewBox": "-1086.000000 -786.000000 2371.000000 1801.000000",
+      "width": "2371.0",
+      "height": "1801.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/IK/IK_H-ind.svg",
+      "bytes": 218111,
+      "sha256": "201ba19d62422c00603f3a7768b200712b5709e0c7464356dd6c8cd59de6b013",
+      "viewBox": "-1086.000000 -786.000000 2371.000000 1801.000000",
+      "width": "2371.0",
+      "height": "1801.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/IK/IK_WD.svg",
+      "bytes": 218111,
+      "sha256": "a82bd8f9e4ed1058a52024128da5624210109dbd6e3e3aa2de558febb3372cb4",
+      "viewBox": "-1086.000000 -786.000000 2371.000000 1801.000000",
+      "width": "2371.0",
+      "height": "1801.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/IK/IK_kat.svg",
+      "bytes": 218111,
+      "sha256": "e7f2d837677a701944a20044975bc5b1d48f97d85cfe2797271dfc1a2f306acd",
+      "viewBox": "-1086.000000 -786.000000 2371.000000 1801.000000",
+      "width": "2371.0",
+      "height": "1801.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/IK/IK_modularity.svg",
+      "bytes": 218111,
+      "sha256": "52064e39034800ba00f84a037d8b51e7f3161fc9af58e47ad9cadc9e10d22d8f",
+      "viewBox": "-1086.000000 -786.000000 2371.000000 1801.000000",
+      "width": "2371.0",
+      "height": "1801.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MK/MK_BC.svg",
+      "bytes": 114755,
+      "sha256": "cd05247fc3720091f3dda5fef4d1be04a978f0d6e739b1d8a882e8c3407a16e4",
+      "viewBox": "-1037.000000 -913.000000 1870.000000 1849.000000",
+      "width": "1870.0",
+      "height": "1849.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MK/MK_H-ind.svg",
+      "bytes": 114755,
+      "sha256": "557f6d9cc495657bb9de76730d8d25a8dc8d5564d67361884f78c44d49589fe8",
+      "viewBox": "-1037.000000 -913.000000 1870.000000 1849.000000",
+      "width": "1870.0",
+      "height": "1849.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MK/MK_WD.svg",
+      "bytes": 114755,
+      "sha256": "791d0c0f3ffc5a80eb469e4c05cf05a53f5ed32a325fe768089bb25f81ab3b90",
+      "viewBox": "-1037.000000 -913.000000 1870.000000 1849.000000",
+      "width": "1870.0",
+      "height": "1849.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MK/MK_kat.svg",
+      "bytes": 114755,
+      "sha256": "0dcebf84f4ad868e45dabb4dbebe2fb4a893d06b8250fe7d11d8ffe2037681ab",
+      "viewBox": "-1037.000000 -913.000000 1870.000000 1849.000000",
+      "width": "1870.0",
+      "height": "1849.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MK/MK_modularity.svg",
+      "bytes": 114755,
+      "sha256": "a2980c844cf0c2324488fff71a9cbb6c910277b239f50ebc09cd7412d7156862",
+      "viewBox": "-1037.000000 -913.000000 1870.000000 1849.000000",
+      "width": "1870.0",
+      "height": "1849.0",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MÉKK/MÉKK_BC.svg",
+      "bytes": 602079,
+      "sha256": "ff39c48178d10b5be99e9746bd230302eee85c80f40bfd0039e3fdb36839ab48",
+      "viewBox": "-1998.398560 -1936.000000 4014.398438 3660.218262",
+      "width": "4014.3984",
+      "height": "3660.2183",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MÉKK/MÉKK_H-ind.svg",
+      "bytes": 600847,
+      "sha256": "5d68e6b5f1cc6219c0dd687faaab5c66437369ce6931cfff39651cb587a690a1",
+      "viewBox": "-1998.398560 -1936.000000 4014.398438 3660.218262",
+      "width": "4014.3984",
+      "height": "3660.2183",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MÉKK/MÉKK_WD.svg",
+      "bytes": 601344,
+      "sha256": "88da74c3b7aadac3fba0059634d666ff989d13467eafb46eee6f88f605ebc444",
+      "viewBox": "-1998.398560 -1936.000000 4014.398438 3660.218262",
+      "width": "4014.3984",
+      "height": "3660.2183",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MÉKK/MÉKK_kat.svg",
+      "bytes": 639242,
+      "sha256": "f6cdcb2f8f875d305e1603cd5e550d98604d4999cbaee629dea471c7980b9c2a",
+      "viewBox": "-1998.398560 -1936.000000 4014.398438 3660.218262",
+      "width": "4014.3984",
+      "height": "3660.2183",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/MÉKK/MÉKK_modularity.svg",
+      "bytes": 600147,
+      "sha256": "c7a6400b1e9fc5c09a8a28762afed1157f79b6fe2470ea2186a6dc8aa687863a",
+      "viewBox": "-1998.398560 -1936.000000 4014.398438 3660.218262",
+      "width": "4014.3984",
+      "height": "3660.2183",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/TTK/TTK_BC.svg",
+      "bytes": 556967,
+      "sha256": "b5890074791b44270a7263324e27956d29277a2dc95e37353f0df1700b2a7097",
+      "viewBox": "-1721.000000 -1583.000000 3731.000000 3349.887451",
+      "width": "3731.0",
+      "height": "3349.8875",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/TTK/TTK_H-ind.svg",
+      "bytes": 553243,
+      "sha256": "05b13ed67e2c69b6ab2c9f630864e4ea5cd3dc25714b5cf200ad9a32ea351e9e",
+      "viewBox": "-1721.000000 -1583.000000 3731.000000 3349.887451",
+      "width": "3731.0",
+      "height": "3349.8875",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/TTK/TTK_WD.svg",
+      "bytes": 553334,
+      "sha256": "e9b92dcf0c89cde81aaaa68acf91c64a6d1e8297e3662c8b6bf17a998e203748",
+      "viewBox": "-1721.000000 -1583.000000 3731.000000 3349.887451",
+      "width": "3731.0",
+      "height": "3349.8875",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/TTK/TTK_kat.svg",
+      "bytes": 587837,
+      "sha256": "923c49171292c2fd33d9fc47432cc9e2106352a696533f72838fc57776371f73",
+      "viewBox": "-1721.000000 -1583.000000 3731.000000 3349.887451",
+      "width": "3731.0",
+      "height": "3349.8875",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/TTK/TTK_modularity.svg",
+      "bytes": 587837,
+      "sha256": "b31427395a8f835443e52d38f2b45c57a676bd76ae45d9392b8cd95c0fc9d0b3",
+      "viewBox": "-1721.000000 -1583.000000 3731.000000 3349.887451",
+      "width": "3731.0",
+      "height": "3349.8875",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/ÁOK/ÁOK_BC.svg",
+      "bytes": 7262008,
+      "sha256": "783bd56a75ed96710cf482f4fae91e47afcb202218caf2eac245d6d597c8d5a8",
+      "viewBox": "-10222.000000 -10426.000000 22865.000000 21619.072266",
+      "width": "22865.0",
+      "height": "21619.072",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/ÁOK/ÁOK_H-ind.svg",
+      "bytes": 6793148,
+      "sha256": "0ffe476d2035d2735ba4d3c6173266005ddae3235bc127b5c87db9abe696bc32",
+      "viewBox": "-10222.000000 -10426.000000 22865.000000 21619.072266",
+      "width": "22865.0",
+      "height": "21619.072",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/ÁOK/ÁOK_WD.svg",
+      "bytes": 6809045,
+      "sha256": "25fc518fe1567347d0070b015fc1095e9760e6f8dbc0e0b5fb4a076546e38f96",
+      "viewBox": "-10222.000000 -10426.000000 22865.000000 21619.072266",
+      "width": "22865.0",
+      "height": "21619.072",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/ÁOK/ÁOK_kat.svg",
+      "bytes": 6788213,
+      "sha256": "2940eabbee7bd10e261428c8cd43a25b9aa5580b959220b18f74255f81b39080",
+      "viewBox": "-10222.000000 -10426.000000 22865.000000 21619.072266",
+      "width": "22865.0",
+      "height": "21619.072",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "gephi/Karon_beluli/ÁOK/ÁOK_modularity.svg",
+      "bytes": 7262008,
+      "sha256": "1b8152c6b31a7d5cbec7af6ac8798af9aa4ffb974bcebef7f553a1d8d83eab26",
+      "viewBox": "-10222.000000 -10426.000000 22865.000000 21619.072266",
+      "width": "22865.0",
+      "height": "21619.072",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_01_kari_halozati_ujjlenyomat_heatmap.svg",
+      "bytes": 72549,
+      "sha256": "914b231363f4a5b59c9235eff1280f6499e82106897d709c5a57c1e9e0965f74",
+      "viewBox": "0 0 996.343721 674.643157",
+      "width": "996.343721pt",
+      "height": "674.643157pt",
+      "embedded_raster_images": 2
+    },
+    {
+      "path": "python/svg/fig_25_02_kmag_szignaturagorbek.svg",
+      "bytes": 24200,
+      "sha256": "5596c61018a933ff6d4c15a5c3fdc2cf2bd8197a027679a2ef30c47eeb2850a4",
+      "viewBox": "0 0 912.844541 530.561719",
+      "width": "912.844541pt",
+      "height": "530.561719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_03_integracio_median_hindex.svg",
+      "bytes": 34261,
+      "sha256": "2d69de1398ce546fdf01463801d930d60e5479ae73542dd029d3155556397d9d",
+      "viewBox": "0 0 855.258437 551.820156",
+      "width": "855.258437pt",
+      "height": "551.820156pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_04_karok_publikacioszama.svg",
+      "bytes": 21429,
+      "sha256": "17b01a5e912db5074084312983002d7c065b8c07a66bd1d2481bf0fb2bf302a6",
+      "viewBox": "0 0 748.03125 616.681719",
+      "width": "748.03125pt",
+      "height": "616.681719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_05_karok_median_hindex.svg",
+      "bytes": 23505,
+      "sha256": "6491d161a448aba2a1eb12ac1e6cfd21ed3c1b70b9ac78f6f868500114d3df4b",
+      "viewBox": "0 0 748.03125 617.441719",
+      "width": "748.03125pt",
+      "height": "617.441719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_06_karok_median_strength.svg",
+      "bytes": 23550,
+      "sha256": "a28d0ce68af54c7dd38b56a917df7ea92aac4eff39512f19af74f72ec9d16024",
+      "viewBox": "0 0 748.03125 616.681719",
+      "width": "748.03125pt",
+      "height": "616.681719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_07_pubcount_hindex_mintakarok.svg",
+      "bytes": 733983,
+      "sha256": "c229e4f81507d1b2ffd530ad2bd53a3f332758f52767bb36587ed767563423a2",
+      "viewBox": "0 0 883.26 957.685556",
+      "width": "883.26pt",
+      "height": "957.685556pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_08_strength_fwci_mintakarok_log.svg",
+      "bytes": 714362,
+      "sha256": "87827ec0bbace386aca036559e406858610338470cc6c559b317657760af2e75",
+      "viewBox": "0 0 883.26 957.685556",
+      "width": "883.26pt",
+      "height": "957.685556pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_09_de_top_nemzetkozi_orszagpartnerek.svg",
+      "bytes": 19664,
+      "sha256": "3c303737aa481b555a0c7d033e08bb357b4899e14e0e054dac5d2dd02dbb4032",
+      "viewBox": "0 0 783.794062 544.681719",
+      "width": "783.794062pt",
+      "height": "544.681719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_10_nemmagyar_orszagpartnerek_karonkent.svg",
+      "bytes": 23503,
+      "sha256": "b332a65c12f2ec210216e05d90ff3010c08e0a1679aa71ad678d106b17d36347",
+      "viewBox": "0 0 748.03125 616.681719",
+      "width": "748.03125pt",
+      "height": "616.681719pt",
+      "embedded_raster_images": 0
+    },
+    {
+      "path": "python/svg/fig_25_11_karok_weighted_pagerank.svg",
+      "bytes": 22888,
+      "sha256": "ec2f5c59935f64c7071ccfa979275689ea5b87012230d58ab41f9acea7b8c3c8",
+      "viewBox": "0 0 748.03125 616.681719",
+      "width": "748.03125pt",
+      "height": "616.681719pt",
+      "embedded_raster_images": 0
+    }
+  ]
+}

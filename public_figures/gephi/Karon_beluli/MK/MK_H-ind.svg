@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1870.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1037.000000 -913.000000 1870.000000 1849.000000" height="1849.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_000127"
+              d="M -390.766693,-37.513973 A 77.505363,77.505363 0,0 1,-406.421906,-84.980042"
+              stroke="#bc4b68" stroke-width="19.52" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_000347"
+              d="M -349.880768,-12.731697 A 275.424082,275.424082 0,0 1,-174.688354,222.357330"
+              stroke="#c64059" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_000356"
+              d="M -367.747040,-44.450588 A 204.746404,204.746404 0,0 1,-216.666901,-187.434967"
+              stroke="#dd2633" stroke-width="19.008" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_000547"
+              d="M -359.484711,-40.911144 A 296.645471,296.645471 0,0 1,-61.113750,-156.780594"
+              stroke="#a8628a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_000979"
+              d="M -351.400970,-31.917437 A 199.070923,199.070923 0,0 1,-148.305023,-7.780087"
+              stroke="#a8638b" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_001007"
+              d="M -348.622650,-21.567348 A 412.314996,412.314996 0,0 1,36.708942,231.591019"
+              stroke="#a8638b" stroke-width="5.696" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_001343"
+              d="M -349.860229,-28.297253 A 339.093792,339.093792 0,0 1,7.474559,81.423805"
+              stroke="#a8628a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_001383"
+              d="M -348.874542,-16.896536 A 49.379735,49.379735 0,0 1,-330.460754,-3.367878"
+              stroke="#b65172" stroke-width="16.448" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_001819"
+              d="M -349.011932,-16.078566 A 152.894612,152.894612 0,0 1,-241.832932,89.525810"
+              stroke="#a8668c" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_002238"
+              d="M -353.024933,-34.586597 A 131.074303,131.074303 0,0 1,-228.223648,-37.147072"
+              stroke="#a8648b" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_003036"
+              d="M -357.490570,-1.663764 A 178.898499,178.898499 0,0 1,-342.214020,181.338150"
+              stroke="#a8668c" stroke-width="5.184" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_003529"
+              d="M -375.521606,-44.922100 A 123.429802,123.429802 0,0 1,-319.727081,-148.131622"
+              stroke="#a8668c" stroke-width="13.376" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_004113"
+              d="M -367.100311,-44.296566 A 302.067808,302.067808 0,0 1,-112.692772,-258.527069"
+              stroke="#a8688e" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_004676"
+              d="M -350.560822,-30.145382 A 72.314272,72.314272 0,0 1,-294.529083,-20.434042"
+              stroke="#a8688e" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_004684"
+              d="M -348.631897,-21.769260 A 222.998623,222.998623 0,0 1,-147.375092,107.538261"
+              stroke="#a8688e" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_005389"
+              d="M -352.705841,-6.971149 A 187.626908,187.626908 0,0 1,-282.214874,176.585770"
+              stroke="#a8688e" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_005458"
+              d="M -395.723206,-11.151997 A 72.393561,72.393561 0,0 1,-451.758636,-21.398819"
+              stroke="#a8688e" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_005526"
+              d="M -362.989197,-42.859062 A 380.466929,380.466929 0,0 1,9.919221,-253.929901"
+              stroke="#a8688e" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_005791"
+              d="M -374.066742,-45.023094 A 227.244508,227.244508 0,0 1,-239.769913,-249.130219"
+              stroke="#a8688e" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_005996"
+              d="M -348.824799,-17.243597 A 286.980376,286.980376 0,0 1,-119.930122,200.858994"
+              stroke="#a8688e" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000115 id_AUTH_006044"
+              d="M -367.190704,-44.319214 A 98.335962,98.335962 0,0 1,-301.384979,-103.757553"
+              stroke="#a8668c" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000218"
+              d="M -420.334900,-92.592102 A 87.857294,87.857294 0,0 1,-483.693634,-78.462204"
+              stroke="#c04662" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000347"
+              d="M -380.040375,-99.715675 A 349.721971,349.721971 0,0 1,-173.043076,222.354279"
+              stroke="#bc4b68" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000380"
+              d="M -391.535095,-87.240303 A 205.593915,205.593915 0,0 1,-417.801971,120.574486"
+              stroke="#9e6d9a" stroke-width="36.928" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000685"
+              d="M -384.203217,-124.671776 A 464.016960,464.016960 0,0 1,135.783340,-172.990067"
+              stroke="#a5638c" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000777"
+              d="M -381.780457,-96.256126 A 321.741625,321.741625 0,0 1,-241.982285,226.387619"
+              stroke="#9e6d9a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000872"
+              d="M -378.270660,-108.264275 A 547.763701,547.763701 0,0 1,118.129402,269.154266"
+              stroke="#ac5c81" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_000964"
+              d="M -378.761230,-103.933411 A 617.703731,617.703731 0,0 1,97.474091,419.657715"
+              stroke="#bc4b68" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_001007"
+              d="M -378.303040,-107.443825 A 475.173372,475.173372 0,0 1,38.393227,231.026993"
+              stroke="#9e6e9a" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_001482"
+              d="M -419.321747,-126.075279 A 226.115587,226.115587 0,0 1,-458.652039,-361.259796"
+              stroke="#9e6e9a" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_001707"
+              d="M -378.342133,-110.741417 A 837.033760,837.033760 0,0 1,448.812439,401.447113"
+              stroke="#9e6d9a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_001733"
+              d="M -378.269470,-109.294571 A 922.269352,922.269352 0,0 1,499.786621,511.249603"
+              stroke="#9e6f9b" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_002340"
+              d="M -384.604675,-125.121399 A 115.951292,115.951292 0,0 1,-279.161743,-141.969223"
+              stroke="#9e6f9b" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_003730"
+              d="M -400.589874,-84.716827 A 182.511577,182.511577 0,0 1,-496.864410,77.924835"
+              stroke="#9e719c" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_003889"
+              d="M -413.358856,-87.263000 A 158.108680,158.108680 0,0 1,-553.710205,-11.360669"
+              stroke="#9e719c" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_003965"
+              d="M -378.531708,-105.224129 A 493.904501,493.904501 0,0 1,21.882627,291.011139"
+              stroke="#9e6e9a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_004503"
+              d="M -424.995422,-100.189552 A 126.586528,126.586528 0,0 1,-544.727844,-129.398087"
+              stroke="#9e739d" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_004573"
+              d="M -407.133759,-132.503677 A 57.290024,57.290024 0,0 1,-393.535797,-168.636078"
+              stroke="#9e739d" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_004696"
+              d="M -415.562653,-88.531555 A 46.379304,46.379304 0,0 1,-437.887421,-77.460785"
+              stroke="#9e739d" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_004905"
+              d="M -401.661896,-132.955032 A 88.036883,88.036883 0,0 1,-357.361450,-195.238815"
+              stroke="#cfa7b9" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_004959"
+              d="M -411.119659,-131.348160 A 245.809189,245.809189 0,0 1,-343.783844,-389.660461"
+              stroke="#9e739d" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_005779"
+              d="M -393.152679,-131.117111 A 119.527392,119.527392 0,0 1,-296.916199,-193.518677"
+              stroke="#9e739d" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_005828"
+              d="M -378.447266,-105.841301 A 610.786821,610.786821 0,0 1,133.588852,379.248413"
+              stroke="#9e739d" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_006052"
+              d="M -424.861725,-99.847168 A 231.737178,231.737178 0,0 1,-667.593384,-159.760345"
+              stroke="#9e739d" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000127 id_AUTH_006213"
+              d="M -378.484100,-105.557533 A 60.993148,60.993148 0,0 1,-345.335449,-77.843475"
+              stroke="#cfa7b9" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000156 id_AUTH_000866"
+              d="M -843.091858,515.129272 A 114.584791,114.584791 0,0 1,-772.680542,590.105774"
+              stroke="#bf4764" stroke-width="5.952" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000156 id_AUTH_001759"
+              d="M -861.021545,532.226440 A 214.973136,214.973136 0,0 1,-950.610718,740.108704"
+              stroke="#bf4764" stroke-width="5.184" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000156 id_AUTH_005524"
+              d="M -869.502136,532.387878 A 197.637804,197.637804 0,0 1,-1017.260559,681.159241"
+              stroke="#bf4c67" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000156 id_AUTH_005831"
+              d="M -842.383240,510.149384 A 218.528459,218.528459 0,0 1,-656.005737,653.000183"
+              stroke="#bf4f68" stroke-width="1.8560001"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_000390"
+              d="M 349.470825,-528.827698 A 305.489210,305.489210 0,0 1,409.325500,-203.111038"
+              stroke="#eb161a" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_000472"
+              d="M 317.352875,-560.883606 A 246.964763,246.964763 0,0 1,271.205292,-818.109009"
+              stroke="#e0232e" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_000659"
+              d="M 353.331757,-534.066040 A 379.899887,379.899887 0,0 1,540.953674,-155.840195"
+              stroke="#d23244" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_000826"
+              d="M 338.450989,-522.666626 A 168.216775,168.216775 0,0 1,278.717316,-365.453369"
+              stroke="#cc384d" stroke-width="16.448" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_003802"
+              d="M 354.825592,-552.019226 A 173.456732,173.456732 0,0 1,527.009949,-501.847809"
+              stroke="#be5069" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_004047"
+              d="M 317.237152,-528.770691 A 62.548940,62.548940 0,0 1,273.856415,-518.358459"
+              stroke="#be5069" stroke-width="13.376" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_005103"
+              d="M 328.349854,-522.632507 A 206.427108,206.427108 0,0 1,163.874969,-375.318268"
+              stroke="#be4c67" stroke-width="15.424" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000195 id_AUTH_006432"
+              d="M 335.169525,-522.155212 A 123.509491,123.509491 0,0 1,274.967804,-417.413483"
+              stroke="#be5069" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_000460"
+              d="M 246.292755,246.586029 A 226.560635,226.560635 0,0 1,357.873169,37.287769"
+              stroke="#b35476" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_000777"
+              d="M 230.142471,280.283478 A 412.331374,412.331374 0,0 1,-231.467194,255.087814"
+              stroke="#ac5d84" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_000872"
+              d="M 231.541092,282.234985 A 105.524161,105.524161 0,0 1,139.146835,292.958954"
+              stroke="#ba4c6b" stroke-width="8.256" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_000964"
+              d="M 245.610291,290.246826 A 187.435372,187.435372 0,0 1,116.068184,432.505737"
+              stroke="#ca3b52" stroke-width="8.256" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_000972"
+              d="M 248.542938,246.454361 A 517.893504,517.893504 0,0 1,594.479248,-234.805374"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_001081"
+              d="M 253.513611,289.932434 A 139.305732,139.305732 0,0 1,205.621185,415.873871"
+              stroke="#ac5d84" stroke-width="40.0" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_001364"
+              d="M 237.910507,287.637543 A 191.998639,191.998639 0,0 1,59.375149,375.307068"
+              stroke="#ac5d84" stroke-width="29.9648"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_001707"
+              d="M 270.698212,269.087067 A 210.634617,210.634617 0,0 1,449.430542,401.210815"
+              stroke="#ac5d84" stroke-width="26.688" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_001923"
+              d="M 268.513977,278.036163 A 244.915609,244.915609 0,0 1,396.570435,508.766510"
+              stroke="#ac6085" stroke-width="12.352" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_001980"
+              d="M 266.494049,281.408295 A 96.633672,96.633672 0,0 1,297.422852,360.364197"
+              stroke="#ac5e84" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_002181"
+              d="M 254.706894,247.289078 A 86.888596,86.888596 0,0 1,309.256836,198.291519"
+              stroke="#ac6186" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_003722"
+              d="M 260.195618,287.224640 A 152.215570,152.215570 0,0 1,251.815186,441.307495"
+              stroke="#ac6186" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_003965"
+              d="M 232.412247,283.254883 A 189.485174,189.485174 0,0 1,34.738503,308.229767"
+              stroke="#ac5e84" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_004677"
+              d="M 270.522308,265.613159 A 146.585802,146.585802 0,0 1,402.957397,334.506195"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_005011"
+              d="M 268.458923,278.149261 A 183.233623,183.233623 0,0 1,360.972229,448.053101"
+              stroke="#ac5c83" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_005285"
+              d="M 226.704727,269.082092 A 55.612536,55.612536 0,0 1,193.316223,249.735168"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_005661"
+              d="M 252.713058,290.096313 A 256.562210,256.562210 0,0 1,132.557465,544.865479"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000248 id_AUTH_006220"
+              d="M 268.298035,278.470642 A 129.420263,129.420263 0,0 1,329.210724,391.677490"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000280 id_AUTH_000972"
+              d="M 765.667114,-153.408569 A 164.908377,164.908377 0,0 1,614.217529,-227.517670"
+              stroke="#9281b2" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000280 id_AUTH_002041"
+              d="M 768.146545,-167.113327 A 221.224509,221.224509 0,0 1,664.661804,-378.787048"
+              stroke="#9281b2" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000280 id_AUTH_002341"
+              d="M 784.936401,-134.993988 A 410.153335,410.153335 0,0 1,476.640991,210.582718"
+              stroke="#927eb0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000280 id_AUTH_005585"
+              d="M 773.296509,-173.324783 A 342.865002,342.865002 0,0 1,749.097900,-558.194336"
+              stroke="#c3b4ce" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000280 id_AUTH_006752"
+              d="M 778.706360,-176.608170 A 166.189391,166.189391 0,0 1,815.504272,-345.823029"
+              stroke="#c3b4ce" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_000356"
+              d="M -186.679718,226.786697 A 362.291779,362.291779 0,0 1,-207.291443,-173.457932"
+              stroke="#dd2633" stroke-width="10.5088"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_000460"
+              d="M -162.515732,225.685028 A 491.641623,491.641623 0,0 1,356.182465,23.037762"
+              stroke="#af587d" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_000979"
+              d="M -182.559570,224.261734 A 202.573221,202.573221 0,0 1,-147.032196,15.343384"
+              stroke="#a8638b" stroke-width="12.352" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_001819"
+              d="M -191.291779,231.845947 A 127.785029,127.785029 0,0 1,-240.669113,118.834251"
+              stroke="#a8668c" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_002238"
+              d="M -188.030518,227.945526 A 230.364294,230.364294 0,0 1,-222.327942,-17.458601"
+              stroke="#a8648b" stroke-width="12.352" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_002322"
+              d="M -157.724258,229.976578 A 365.136246,365.136246 0,0 1,251.313400,205.059967"
+              stroke="#a8638b" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_003411"
+              d="M -170.443649,222.616623 A 258.158228,258.158228 0,0 1,28.419884,22.390047"
+              stroke="#a8638b" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_003450"
+              d="M -191.235809,231.759827 A 173.114020,173.114020 0,0 1,-258.764526,64.309868"
+              stroke="#a8668c" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_003965"
+              d="M -153.898270,237.194916 A 172.163257,172.163257 0,0 1,16.468132,293.430725"
+              stroke="#a8638b" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_004573"
+              d="M -192.232895,233.455933 A 391.394689,391.394689 0,0 1,-388.028259,-165.796783"
+              stroke="#a8688e" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_004696"
+              d="M -193.984192,238.021347 A 350.949922,350.949922 0,0 1,-447.063721,-66.689445"
+              stroke="#a8688e" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_004994"
+              d="M -190.690887,230.966583 A 260.589818,260.589818 0,0 1,-281.528748,-41.842545"
+              stroke="#a8688e" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_005996"
+              d="M -162.165924,225.916840 A 53.931279,53.931279 0,0 1,-127.854904,210.395340"
+              stroke="#a8688e" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_006650"
+              d="M -190.700470,255.289932 A 334.395662,334.395662 0,0 1,-566.915833,253.680252"
+              stroke="#a8688e" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000347 id_AUTH_006902"
+              d="M -154.836777,251.608978 A 169.066626,169.066626 0,0 1,-64.048729,404.045715"
+              stroke="#a8688e" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_000460"
+              d="M -176.075363,-196.331207 A 510.173777,510.173777 0,0 1,364.560730,11.298240"
+              stroke="#c73f57" stroke-width="11.7376"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_000547"
+              d="M -176.435715,-197.548523 A 132.117826,132.117826 0,0 1,-55.567020,-166.368195"
+              stroke="#bf4864" stroke-width="8.768" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_000777"
+              d="M -186.177536,-172.811554 A 364.811336,364.811336 0,0 1,-233.522385,230.626007"
+              stroke="#bf4864" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_001007"
+              d="M -177.487900,-181.939499 A 416.093606,416.093606 0,0 1,44.994942,230.541946"
+              stroke="#bf4965" stroke-width="6.9248" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_001263"
+              d="M -186.677094,-172.546036 A 415.728743,415.728743 0,0 1,-256.442719,291.189667"
+              stroke="#bf4763" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_001343"
+              d="M -176.442596,-184.510452 A 296.805637,296.805637 0,0 1,16.933264,78.014366"
+              stroke="#bf4864" stroke-width="6.72" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_001819"
+              d="M -186.964767,-172.400925 A 248.430929,248.430929 0,0 1,-228.194656,93.198799"
+              stroke="#c04c66" stroke-width="5.3888" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_002011"
+              d="M -184.442657,-173.877884 A 457.181989,457.181989 0,0 1,-198.753311,345.890747"
+              stroke="#bf4b65" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_002238"
+              d="M -187.263794,-172.255936 A 135.179158,135.179158 0,0 1,-206.889938,-40.664711"
+              stroke="#bf4b65" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_003036"
+              d="M -191.326569,-170.820313 A 343.986548,343.986548 0,0 1,-337.440369,185.757996"
+              stroke="#c04c66" stroke-width="5.184" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_003411"
+              d="M -175.547501,-188.492874 A 264.627065,264.627065 0,0 1,38.212307,7.452487"
+              stroke="#bf4965" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_003450"
+              d="M -189.026749,-171.515823 A 209.055689,209.055689 0,0 1,-247.262390,44.611603"
+              stroke="#c04c66" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_004113"
+              d="M -187.892624,-210.109863 A 98.004102,98.004102 0,0 1,-112.739029,-259.194946"
+              stroke="#c04f68" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_004347"
+              d="M -175.409714,-190.156052 A 177.572599,177.572599 0,0 1,-27.631527,-77.328308"
+              stroke="#f18284" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_004461"
+              d="M -178.040482,-180.882294 A 249.173625,249.173625 0,0 1,-62.145760,67.192459"
+              stroke="#f18284" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_004676"
+              d="M -193.950821,-170.365005 A 165.321572,165.321572 0,0 1,-277.689362,-19.082054"
+              stroke="#c04f68" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_004684"
+              d="M -181.658173,-176.161011 A 260.202245,260.202245 0,0 1,-138.989594,107.719322"
+              stroke="#c04f68" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_005389"
+              d="M -188.436218,-171.742630 A 322.963066,322.963066 0,0 1,-276.752686,179.819016"
+              stroke="#c04f68" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_005458"
+              d="M -204.514603,-171.985001 A 258.448756,258.448756 0,0 1,-449.716614,-26.799191"
+              stroke="#c04f68" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_005526"
+              d="M -182.730942,-206.895538 A 187.299543,187.299543 0,0 1,10.437604,-256.281677"
+              stroke="#c04f68" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_006725"
+              d="M -177.159607,-182.647491 A 351.408372,351.408372 0,0 1,22.029037,160.366104"
+              stroke="#f18284" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000356 id_AUTH_006858"
+              d="M -176.848572,-183.391388 A 60.364753,60.364753 0,0 1,-149.841904,-146.628265"
+              stroke="#f18284" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_001482"
+              d="M -443.910919,119.918877 A 426.820509,426.820509 0,0 1,-460.843445,-362.469238"
+              stroke="#8a85bc" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_002340"
+              d="M -432.507141,115.621002 A 265.858703,265.858703 0,0 1,-279.005127,-131.152817"
+              stroke="#8a86bd" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_003730"
+              d="M -451.794189,134.236008 A 77.469212,77.469212 0,0 1,-502.983673,94.366165"
+              stroke="#8a88be" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_004503"
+              d="M -448.817902,125.384300 A 248.454631,248.454631 0,0 1,-553.843384,-126.695801"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_004905"
+              d="M -438.633667,116.946754 A 288.216338,288.216338 0,0 1,-355.974609,-193.097031"
+              stroke="#bbbedb" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_004959"
+              d="M -440.121674,117.584389 A 450.737694,450.737694 0,0 1,-343.510864,-389.362518"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_005779"
+              d="M -435.293457,115.981735 A 300.202269,300.202269 0,0 1,-295.541046,-188.778519"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_006052"
+              d="M -451.064697,130.440262 A 323.946902,323.946902 0,0 1,-673.843689,-157.173401"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000380 id_AUTH_006213"
+              d="M -434.830444,115.894859 A 186.580422,186.580422 0,0 1,-349.741028,-63.614071"
+              stroke="#bbbedb" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_000659"
+              d="M 420.825958,-189.106125 A 120.871577,120.871577 0,0 1,526.518799,-151.990936"
+              stroke="#cb394e" stroke-width="25.664" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_000685"
+              d="M 384.944397,-171.640320 A 208.396484,208.396484 0,0 1,167.640106,-154.718887"
+              stroke="#bf4763" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_000826"
+              d="M 381.397339,-190.683655 A 182.011241,182.011241 0,0 1,265.866058,-337.407898"
+              stroke="#c63f58" stroke-width="10.304" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_001162"
+              d="M 387.238098,-199.705719 A 128.060425,128.060425 0,0 1,368.798462,-321.050903"
+              stroke="#c63f58" stroke-width="28.736" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_001328"
+              d="M 394.680695,-203.962372 A 100.051393,100.051393 0,0 1,417.129578,-290.097504"
+              stroke="#b75070" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000390 id_AUTH_002012"
+              d="M 406.523895,-164.787476 A 87.827100,87.827100 0,0 1,385.520142,-92.317360"
+              stroke="#b75371" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_000539"
+              d="M 366.407471,45.717766 A 258.730840,258.730840 0,0 1,117.067207,176.512405"
+              stroke="#9281b2" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_000777"
+              d="M 364.069031,44.308735 A 547.901844,547.901844 0,0 1,-228.341370,249.111374"
+              stroke="#917aae" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_000964"
+              d="M 376.009735,47.908470 A 411.033919,411.033919 0,0 1,115.525787,430.757019"
+              stroke="#af587d" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_001007"
+              d="M 368.214600,46.533611 A 332.008247,332.008247 0,0 1,59.790573,247.897751"
+              stroke="#917baf" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_001263"
+              d="M 365.242065,45.070122 A 582.744372,582.744372 0,0 1,-251.961777,306.289093"
+              stroke="#9179ad" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_001819"
+              d="M 360.880005,41.528343 A 515.534444,515.534444 0,0 1,-225.370880,111.302498"
+              stroke="#927eb0" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_001943"
+              d="M 356.357086,22.398123 A 66.115536,66.115536 0,0 1,322.600006,-13.537855"
+              stroke="#917daf" stroke-width="25.664" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_001980"
+              d="M 382.945801,46.475842 A 296.599338,296.599338 0,0 1,306.040741,365.087616"
+              stroke="#917baf" stroke-width="16.448" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_002011"
+              d="M 367.179199,46.092731 A 558.074115,558.074115 0,0 1,-193.100220,359.142944"
+              stroke="#917daf" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_002388"
+              d="M 385.754669,45.081085 A 86.936191,86.936191 0,0 1,384.022461,120.320618"
+              stroke="#927eb0" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_003143"
+              d="M 363.306854,43.747753 A 240.768932,240.768932 0,0 1,112.683655,120.126122"
+              stroke="#927eb0" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_003411"
+              d="M 358.867706,38.965801 A 278.766468,278.766468 0,0 1,51.384171,27.749804"
+              stroke="#917baf" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_003450"
+              d="M 359.792847,40.251732 A 526.961039,526.961039 0,0 1,-246.379486,59.237339"
+              stroke="#927eb0" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000460 id_AUTH_003995"
+              d="M 371.426025,47.492706 A 127.548632,127.548632 0,0 1,280.613007,135.278381"
+              stroke="#9281b2" stroke-width="13.376" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_000526"
+              d="M 280.083466,-816.408020 A 273.783787,273.783787 0,0 1,120.976250,-566.333313"
+              stroke="#c5405a" stroke-width="1.6" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_001440"
+              d="M 269.640717,-818.892578 A 218.617443,218.617443 0,0 1,60.160713,-716.525024"
+              stroke="#ac5d84" stroke-width="10.304" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_001834"
+              d="M 268.058228,-819.875366 A 113.015628,113.015628 0,0 1,169.721756,-779.393494"
+              stroke="#ac5e84" stroke-width="19.52" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_002328"
+              d="M 278.644623,-816.400818 A 177.762075,177.762075 0,0 1,168.660172,-667.236267"
+              stroke="#ac6186" stroke-width="8.256" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_003802"
+              d="M 298.054291,-830.027283 A 356.765733,356.765733 0,0 1,534.698364,-504.752167"
+              stroke="#ac6487" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_004444"
+              d="M 272.567413,-817.560364 A 397.613815,397.613815 0,0 1,-102.793808,-563.968689"
+              stroke="#ac6487" stroke-width="1.6" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000472 id_AUTH_005103"
+              d="M 286.116730,-817.616943 A 399.107396,399.107396 0,0 1,161.781662,-380.154114"
+              stroke="#ac6085" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000539 id_AUTH_000855"
+              d="M 114.991470,182.542068 A 429.429050,429.429050 0,0 1,308.168213,631.501709"
+              stroke="#8a8abf" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000539 id_AUTH_002388"
+              d="M 112.930168,164.060974 A 231.701905,231.701905 0,0 1,364.071625,126.046989"
+              stroke="#8b8ec1" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000539 id_AUTH_003143"
+              d="M 94.378304,161.287766 A 48.689472,48.689472 0,0 1,94.384445,127.635277"
+              stroke="#8b8ec1" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_001343"
+              d="M -28.189854,-139.504761 A 211.278220,211.278220 0,0 1,23.106316,79.077660"
+              stroke="#8a84bc" stroke-width="6.72" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_001819"
+              d="M -43.292351,-133.196518 A 268.972284,268.972284 0,0 1,-224.179596,99.619942"
+              stroke="#8a88be" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_003036"
+              d="M -44.477432,-133.286469 A 384.259705,384.259705 0,0 1,-335.720184,189.898895"
+              stroke="#8a88be" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_004113"
+              d="M -59.048298,-161.980972 A 101.765762,101.765762 0,0 1,-101.745476,-247.689346"
+              stroke="#8a8abf" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_004347"
+              d="M -29.682550,-138.024155 A 73.698047,73.698047 0,0 1,-19.574266,-77.270958"
+              stroke="#bbbedb" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_004461"
+              d="M -33.218964,-135.533401 A 192.016670,192.016670 0,0 1,-57.265156,69.475189"
+              stroke="#bbbedb" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_006725"
+              d="M -28.623425,-139.040482 A 274.086496,274.086496 0,0 1,25.327320,161.240891"
+              stroke="#bbbedb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000547 id_AUTH_006858"
+              d="M -57.332355,-140.270950 A 89.108273,89.108273 0,0 1,-139.173355,-132.494034"
+              stroke="#bbbedb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000659 id_AUTH_000826"
+              d="M 519.573608,-138.593063 A 291.326994,291.326994 0,0 1,269.442535,-338.069336"
+              stroke="#ac5c81" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000659 id_AUTH_001162"
+              d="M 520.284058,-142.683105 A 213.934419,213.934419 0,0 1,376.669586,-319.735138"
+              stroke="#ac5c81" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000659 id_AUTH_001181"
+              d="M 528.461426,-153.350098 A 89.702285,89.702285 0,0 1,528.911438,-231.171280"
+              stroke="#9e6f9b" stroke-width="17.472" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000659 id_AUTH_001323"
+              d="M 531.793152,-154.947403 A 188.548755,188.548755 0,0 1,581.386414,-346.295197"
+              stroke="#9e6f9b" stroke-width="17.472" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000659 id_AUTH_005785"
+              d="M 522.911987,-126.804825 A 75.519521,75.519521 0,0 1,456.722229,-124.505119"
+              stroke="#9e739d" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000685 id_AUTH_000777"
+              d="M 148.964676,-145.628281 A 474.333579,474.333579 0,0 1,-227.851151,240.849930"
+              stroke="#917aae" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000685 id_AUTH_001676"
+              d="M 161.952423,-148.573105 A 151.215102,151.215102 0,0 1,162.139679,4.857812"
+              stroke="#927eb0" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000685 id_AUTH_004242"
+              d="M 145.444565,-146.516373 A 111.569375,111.569375 0,0 1,58.214485,-82.222237"
+              stroke="#9281b2" stroke-width="13.376" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000685 id_AUTH_004929"
+              d="M 161.231522,-148.110275 A 68.343859,68.343859 0,0 1,159.912155,-90.458000"
+              stroke="#9281b2" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000685 id_AUTH_005253"
+              d="M 169.108536,-169.554474 A 98.315763,98.315763 0,0 1,259.731262,-144.154144"
+              stroke="#9281b2" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000765 id_AUTH_001440"
+              d="M 155.267456,-869.426880 A 163.897991,163.897991 0,0 1,59.212761,-724.561768"
+              stroke="#bbbedb" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_000872"
+              d="M -229.786407,235.339142 A 309.267871,309.267871 0,0 1,110.265160,274.204651"
+              stroke="#9873a3" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_000964"
+              d="M -227.682831,242.041733 A 329.271176,329.271176 0,0 1,92.060410,421.208191"
+              stroke="#a8628a" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_001007"
+              d="M -230.654449,233.917175 A 240.346746,240.346746 0,0 1,29.158970,237.490250"
+              stroke="#8a85bc" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_001263"
+              d="M -243.484589,261.743744 A 52.301926,52.301926 0,0 1,-255.543243,292.131714"
+              stroke="#8a83bb" stroke-width="7.4368" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_001707"
+              d="M -228.915787,237.164566 A 600.503669,600.503669 0,0 1,444.835785,403.849731"
+              stroke="#8a84bc" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_002011"
+              d="M -231.727493,255.407822 A 99.745937,99.745937 0,0 1,-203.956818,343.389496"
+              stroke="#8a86bd" stroke-width="12.5568"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_002496"
+              d="M -229.236374,251.468384 A 202.227801,202.227801 0,0 1,-120.285927,442.344818"
+              stroke="#8a8abf" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_003889"
+              d="M -263.366760,242.921356 A 341.743405,341.743405 0,0 1,-562.512329,-0.606647"
+              stroke="#8a88be" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_003965"
+              d="M -228.920181,237.153839 A 229.832678,229.832678 0,0 1,15.831842,293.970520"
+              stroke="#8a85bc" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_004929"
+              d="M -240.798157,226.666183 A 430.118086,430.118086 0,0 1,144.855820,-81.326248"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_005413"
+              d="M -257.453461,257.272491 A 222.402615,222.402615 0,0 1,-495.715546,310.070007"
+              stroke="#8a8abf" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_005828"
+              d="M -228.151840,239.463242 A 339.715817,339.715817 0,0 1,130.000778,380.695587"
+              stroke="#8a8abf" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_006118"
+              d="M -245.594696,261.855896 A 226.826519,226.826519 0,0 1,-391.975372,463.730377"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000777 id_AUTH_006556"
+              d="M -239.255692,260.736481 A 144.690673,144.690673 0,0 1,-276.995575,406.447449"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000826 id_AUTH_001162"
+              d="M 280.871368,-361.560974 A 93.753468,93.753468 0,0 1,363.144226,-346.831604"
+              stroke="#a7628b" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000826 id_AUTH_001181"
+              d="M 281.682770,-358.955841 A 245.180019,245.180019 0,0 1,528.466614,-258.785889"
+              stroke="#9875a4" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000826 id_AUTH_001323"
+              d="M 278.869659,-365.241913 A 274.110859,274.110859 0,0 1,580.256714,-366.033112"
+              stroke="#9875a4" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000855 id_AUTH_000872"
+              d="M 289.007111,640.306824 A 337.840588,337.840588 0,0 1,120.583076,303.012665"
+              stroke="#9873a3" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000855 id_AUTH_000964"
+              d="M 287.283752,645.149719 A 245.602941,245.602941 0,0 1,102.169769,453.650085"
+              stroke="#a8628a" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000855 id_AUTH_001980"
+              d="M 293.989044,634.521179 A 228.296779,228.296779 0,0 1,287.235504,386.860352"
+              stroke="#8a85bc" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000855 id_AUTH_006327"
+              d="M 297.049896,632.700684 A 263.938181,263.938181 0,0 1,352.754730,343.650208"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_001417"
+              d="M -764.539185,623.971863 A 165.901139,165.901139 0,0 1,-821.278809,785.973694"
+              stroke="#8a84bb" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_001759"
+              d="M -774.855774,623.543274 A 199.994562,199.994562 0,0 1,-948.215637,747.893188"
+              stroke="#8a82ba" stroke-width="5.184" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_002105"
+              d="M -754.440613,616.688782 A 281.522358,281.522358 0,0 1,-640.969482,907.049255"
+              stroke="#8a83bb" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_003411"
+              d="M -763.682922,590.547546 A 833.731809,833.731809 0,0 1,28.199093,19.901436"
+              stroke="#8a84bb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_005524"
+              d="M -779.954407,620.684814 A 224.183417,224.183417 0,0 1,-1017.606995,686.472412"
+              stroke="#8a87bd" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000866 id_AUTH_005831"
+              d="M -751.707397,605.086914 A 107.261056,107.261056 0,0 1,-657.847351,653.840637"
+              stroke="#8a89be" stroke-width="1.8560001"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_000964"
+              d="M 130.342865,301.717957 A 127.315910,127.315910 0,0 1,110.908073,423.950531"
+              stroke="#b65172" stroke-width="23.616" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_001707"
+              d="M 140.180511,281.635132 A 296.330275,296.330275 0,0 1,446.270844,402.781799"
+              stroke="#9873a3" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_002322"
+              d="M 131.783005,270.604218 A 131.704478,131.704478 0,0 1,249.291702,210.945847"
+              stroke="#9874a4" stroke-width="7.744" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_002920"
+              d="M 120.853989,268.547638 A 57.141264,57.141264 0,0 1,136.933182,229.613297"
+              stroke="#9977a5" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_003965"
+              d="M 110.053879,297.154388 A 83.986413,83.986413 0,0 1,35.031883,307.591003"
+              stroke="#9874a4" stroke-width="5.696" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_005828"
+              d="M 133.951675,299.557739 A 86.657317,86.657317 0,0 1,139.977310,380.147034"
+              stroke="#9979a7" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_005952"
+              d="M 139.417297,292.325836 A 43.265192,43.265192 0,0 1,156.337723,314.165741"
+              stroke="#caadc3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000872 id_AUTH_006098"
+              d="M 126.978569,302.820099 A 236.700481,236.700481 0,0 1,23.268528,543.023865"
+              stroke="#caadc3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_001707"
+              d="M 112.828804,425.985748 A 296.392251,296.392251 0,0 1,441.784149,407.367462"
+              stroke="#a8628a" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_002322"
+              d="M 99.849449,419.551239 A 231.437292,231.437292 0,0 1,249.953735,216.962906"
+              stroke="#a8638b" stroke-width="7.744" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_002920"
+              d="M 93.065468,420.769226 A 183.708680,183.708680 0,0 1,137.413544,230.164261"
+              stroke="#a8668c" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_003965"
+              d="M 84.211853,428.771332 A 128.039571,128.039571 0,0 1,22.943182,314.891479"
+              stroke="#a8638b" stroke-width="5.696" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_005828"
+              d="M 102.456848,419.815369 A 49.776705,49.776705 0,0 1,126.179031,392.782776"
+              stroke="#a8688e" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_005952"
+              d="M 98.056679,419.600983 A 106.096238,106.096238 0,0 1,149.689713,328.651520"
+              stroke="#d99caa" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000964 id_AUTH_006098"
+              d="M 98.073723,453.816864 A 116.725841,116.725841 0,0 1,24.266108,545.149109"
+              stroke="#d99caa" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000972 id_AUTH_001707"
+              d="M 612.578186,-226.684830 A 560.009489,560.009489 0,0 1,465.766571,405.527008"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000979 id_AUTH_004994"
+              d="M -151.895538,6.689179 A 127.821879,127.821879 0,0 1,-273.074829,-43.209618"
+              stroke="#8a8bc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_000979 id_AUTH_005996"
+              d="M -124.776871,16.250950 A 173.562717,173.562717 0,0 1,-112.798935,202.016022"
+              stroke="#8a8bc0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_001263"
+              d="M 30.993046,259.280945 A 262.807836,262.807836 0,0 1,-253.055099,309.468109"
+              stroke="#8a84bb" stroke-width="10.5088"
+              stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_002011"
+              d="M 34.078869,261.707703 A 227.985551,227.985551 0,0 1,-193.283997,360.306244"
+              stroke="#8a87bd" stroke-width="4.3648" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_004396"
+              d="M 31.825687,260.055389 A 397.526331,397.526331 0,0 1,-410.112946,362.093689"
+              stroke="#8a89be" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_004676"
+              d="M 26.037689,246.428543 A 350.630403,350.630403 0,0 1,-283.868256,-4.785585"
+              stroke="#8a8bc0" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_005389"
+              d="M 27.545097,254.331055 A 277.374028,277.374028 0,0 1,-277.416412,193.603073"
+              stroke="#8a8bc0" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001007 id_AUTH_005583"
+              d="M 29.205856,257.186218 A 318.521843,318.521843 0,0 1,-331.168152,256.086548"
+              stroke="#8a8bc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001081 id_AUTH_001364"
+              d="M 176.193924,429.791840 A 131.534431,131.534431 0,0 1,53.171501,385.992096"
+              stroke="#8a84bc" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001081 id_AUTH_001923"
+              d="M 208.747360,423.322968 A 187.560023,187.560023 0,0 1,388.044678,510.613312"
+              stroke="#8a86bd" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001162 id_AUTH_002012"
+              d="M 384.603607,-322.564301 A 211.416796,211.416796 0,0 1,383.339233,-94.190521"
+              stroke="#9875a4" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001181 id_AUTH_001323"
+              d="M 535.739197,-261.351563 A 104.177846,104.177846 0,0 1,579.656982,-348.660645"
+              stroke="#8a89be" stroke-width="17.472" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001181 id_AUTH_001876"
+              d="M 541.814026,-229.417938 A 143.698394,143.698394 0,0 1,495.970490,-89.942390"
+              stroke="#9e6f9b" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001181 id_AUTH_003896"
+              d="M 549.412842,-234.103287 A 263.817103,263.817103 0,0 1,610.289795,52.951744"
+              stroke="#8a8dc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001181 id_AUTH_005785"
+              d="M 536.061035,-228.856232 A 122.059754,122.059754 0,0 1,457.398132,-132.230331"
+              stroke="#8a8dc0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_002011"
+              d="M -251.921036,306.107086 A 67.717155,67.717155 0,0 1,-211.741806,343.573975"
+              stroke="#8a85bc" stroke-width="7.4368" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_004396"
+              d="M -277.165253,315.501160 A 135.947311,135.947311 0,0 1,-409.579010,360.514954"
+              stroke="#8a87bd" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_004963"
+              d="M -266.682251,318.681946 A 288.104872,288.104872 0,0 1,-442.217133,591.697205"
+              stroke="#8a89be" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_005042"
+              d="M -265.141815,318.522491 A 205.592427,205.592427 0,0 1,-366.756042,519.746094"
+              stroke="#8a89be" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_005583"
+              d="M -283.487579,301.172089 A 74.051803,74.051803 0,0 1,-335.748169,259.621307"
+              stroke="#8a89be" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_005659"
+              d="M -258.379089,315.811951 A 332.423311,332.423311 0,0 1,-265.032776,693.557556"
+              stroke="#8a89be" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001263 id_AUTH_005842"
+              d="M -256.070496,313.844604 A 225.800391,225.800391 0,0 1,-211.532486,559.557678"
+              stroke="#8a89be" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001323 id_AUTH_005785"
+              d="M 594.015747,-340.892548 A 225.193600,225.193600 0,0 1,457.160889,-132.888687"
+              stroke="#8a8dc0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001328 id_AUTH_002012"
+              d="M 434.218689,-286.321716 A 187.872866,187.872866 0,0 1,385.872467,-91.934631"
+              stroke="#8a86bd" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001328 id_AUTH_004035"
+              d="M 420.254883,-287.616394 A 103.509333,103.509333 0,0 1,329.145111,-244.775528"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001343 id_AUTH_001819"
+              d="M 4.570423,103.636475 A 213.324246,213.324246 0,0 1,-225.856293,112.116982"
+              stroke="#8a88be" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001343 id_AUTH_003036"
+              d="M 7.181032,106.363922 A 315.612602,315.612602 0,0 1,-336.236511,197.228058"
+              stroke="#8a88be" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001343 id_AUTH_004113"
+              d="M 4.433415,84.572044 A 310.738920,310.738920 0,0 1,-104.283493,-248.189117"
+              stroke="#8a8abf" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001343 id_AUTH_006725"
+              d="M 25.953989,107.508957 A 63.675058,63.675058 0,0 1,26.079193,161.625610"
+              stroke="#bbbedb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001343 id_AUTH_006858"
+              d="M 2.262179,88.693893 A 236.688121,236.688121 0,0 1,-148.217422,-126.761124"
+              stroke="#bbbedb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001364 id_AUTH_001923"
+              d="M 59.140026,369.818024 A 318.645694,318.645694 0,0 1,387.688538,510.823303"
+              stroke="#8a86bd" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001417 id_AUTH_002105"
+              d="M -818.151855,795.119995 A 189.467982,189.467982 0,0 1,-649.796021,907.665405"
+              stroke="#8a85bc" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001440 id_AUTH_001834"
+              d="M 51.915195,-732.656006 A 105.917100,105.917100 0,0 1,140.079132,-782.652649"
+              stroke="#8a85bc" stroke-width="10.304" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001440 id_AUTH_002328"
+              d="M 60.247879,-720.295593 A 103.576122,103.576122 0,0 1,148.409134,-674.609253"
+              stroke="#8a88be" stroke-width="5.184" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001440 id_AUTH_003898"
+              d="M 30.833162,-711.376221 A 168.267269,168.267269 0,0 1,-147.033249,-732.168274"
+              stroke="#8a86bd" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001440 id_AUTH_005352"
+              d="M 59.328106,-724.262939 A 246.789694,246.789694 0,0 1,324.928619,-652.148560"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001440 id_AUTH_006505"
+              d="M 35.243050,-731.303345 A 153.983568,153.983568 0,0 1,29.865866,-894.833069"
+              stroke="#8a8abf" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001482 id_AUTH_001733"
+              d="M -436.638977,-373.680511 A 1095.153867,1095.153867 0,0 1,501.902283,510.704987"
+              stroke="#8a87bd" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001482 id_AUTH_002340"
+              d="M -437.211456,-370.964111 A 252.279119,252.279119 0,0 1,-266.767944,-150.783859"
+              stroke="#8a87bd" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001676 id_AUTH_001923"
+              d="M 167.182266,24.973854 A 466.906974,466.906974 0,0 1,397.870117,508.945801"
+              stroke="#8a8abf" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001707 id_AUTH_003722"
+              d="M 443.736420,425.676025 A 177.272154,177.272154 0,0 1,255.659912,456.212341"
+              stroke="#8a88be" stroke-width="6.208" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001707 id_AUTH_003965"
+              d="M 440.518677,420.647430 A 370.784592,370.784592 0,0 1,31.593111,312.190430"
+              stroke="#8a85bc" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001707 id_AUTH_005285"
+              d="M 439.529633,415.842407 A 265.335708,265.335708 0,0 1,191.264069,250.816711"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001707 id_AUTH_005828"
+              d="M 441.594482,422.870148 A 266.718917,266.718917 0,0 1,143.069595,395.564331"
+              stroke="#8a8abf" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001733 id_AUTH_002341"
+              d="M 494.402893,514.450867 A 262.037114,262.037114 0,0 1,456.408569,226.158524"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001733 id_AUTH_002350"
+              d="M 495.867523,513.255737 A 164.619490,164.619490 0,0 1,492.352936,339.678284"
+              stroke="#8a89be" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001759 id_AUTH_005524"
+              d="M -977.618896,744.544556 A 75.983954,75.983954 0,0 1,-1025.075806,692.991394"
+              stroke="#8a87bd" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001819 id_AUTH_002011"
+              d="M -228.478821,115.198570 A 212.727004,212.727004 0,0 1,-200.712769,344.639984"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001819 id_AUTH_003036"
+              d="M -243.019730,118.281258 A 117.627788,117.627788 0,0 1,-335.465240,191.536148"
+              stroke="#8b8cc0" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001819 id_AUTH_003411"
+              d="M -229.210159,92.324593 A 243.235871,243.235871 0,0 1,28.872660,15.899839"
+              stroke="#8a89be" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001819 id_AUTH_003450"
+              d="M -249.286423,93.807396 A 45.497425,45.497425 0,0 1,-258.479523,64.364098"
+              stroke="#8b8cc0" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001819 id_AUTH_004113"
+              d="M -242.253296,89.630463 A 324.137204,324.137204 0,0 1,-110.752846,-253.050430"
+              stroke="#8b8ec1" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001834 id_AUTH_002328"
+              d="M 163.078491,-769.297852 A 99.502528,99.502528 0,0 1,163.020233,-674.287048"
+              stroke="#8a89be" stroke-width="8.256" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001876 id_AUTH_003896"
+              d="M 498.519836,-76.983940 A 157.377110,157.377110 0,0 1,604.472473,52.032604"
+              stroke="#9e739d" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_001980 id_AUTH_006327"
+              d="M 302.288269,362.054718 A 62.582586,62.582586 0,0 1,349.939758,336.361816"
+              stroke="#8a8bc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002011 id_AUTH_006118"
+              d="M -213.856888,370.519775 A 185.599383,185.599383 0,0 1,-391.456940,468.078522"
+              stroke="#8a8dc0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002011 id_AUTH_006556"
+              d="M -213.066971,370.874512 A 79.120137,79.120137 0,0 1,-274.419495,412.692932"
+              stroke="#8a8dc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002012 id_AUTH_004035"
+              d="M 363.361877,-90.946671 A 144.913629,144.913629 0,0 1,314.060486,-234.661530"
+              stroke="#8a8dc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002181 id_AUTH_005011"
+              d="M 332.582031,205.549438 A 221.116477,221.116477 0,0 1,364.746948,449.149261"
+              stroke="#8a87bd" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002238 id_AUTH_003450"
+              d="M -214.726105,-16.068321 A 76.543417,76.543417 0,0 1,-246.111389,46.180218"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002322 id_AUTH_002920"
+              d="M 252.059906,220.936127 A 97.271165,97.271165 0,0 1,158.185394,227.605545"
+              stroke="#8a89be" stroke-width="4.672" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002322 id_AUTH_003965"
+              d="M 255.339249,224.058044 A 213.196288,213.196288 0,0 1,35.603035,305.910767"
+              stroke="#8a86bd" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002322 id_AUTH_006902"
+              d="M 257.817749,225.406876 A 320.654793,320.654793 0,0 1,-54.525826,414.799988"
+              stroke="#8a8bc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002341 id_AUTH_002350"
+              d="M 473.839447,222.595505 A 100.048169,100.048169 0,0 1,503.629364,314.328796"
+              stroke="#8a8abf" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002350 id_AUTH_005486"
+              d="M 513.623047,331.456146 A 96.000699,96.000699 0,0 1,576.627258,402.682922"
+              stroke="#8a8dc0" stroke-width="7.232" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002388 id_AUTH_003143"
+              d="M 364.718842,139.691116 A 230.605129,230.605129 0,0 1,110.469269,124.278488"
+              stroke="#8b8cc0" stroke-width="9.28" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002920 id_AUTH_003965"
+              d="M 141.927963,233.319290 A 122.898313,122.898313 0,0 1,35.989002,302.995422"
+              stroke="#8a89be" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002920 id_AUTH_005952"
+              d="M 154.995941,231.432098 A 85.966456,85.966456 0,0 1,163.054153,315.023468"
+              stroke="#bcc2dd" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_002920 id_AUTH_006098"
+              d="M 149.911942,233.947540 A 293.804360,293.804360 0,0 1,23.248764,542.992249"
+              stroke="#bcc2dd" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003036 id_AUTH_004113"
+              d="M -349.937988,179.916809 A 429.760725,429.760725 0,0 1,-111.598892,-254.555084"
+              stroke="#8b8ec1" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003411 id_AUTH_003450"
+              d="M 31.451330,28.570236 A 249.350983,249.350983 0,0 1,-245.857040,58.388855"
+              stroke="#8a89be" stroke-width="2.3168" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003722 id_AUTH_005285"
+              d="M 235.502701,443.363159 A 181.021505,181.021505 0,0 1,184.231293,250.883194"
+              stroke="#8b8ec1" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003730 id_AUTH_006052"
+              d="M -518.925415,78.972420 A 250.673869,250.673869 0,0 1,-674.681152,-157.168793"
+              stroke="#8b8ec1" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003802 id_AUTH_005103"
+              d="M 527.631470,-483.061310 A 332.482337,332.482337 0,0 1,163.448410,-370.700378"
+              stroke="#8a8dc0" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003898 id_AUTH_006505"
+              d="M -153.168350,-751.728271 A 209.588907,209.588907 0,0 1,25.212992,-902.440491"
+              stroke="#8a8dc0" stroke-width="4.16" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_003965 id_AUTH_005828"
+              d="M 35.963482,303.675232 A 117.455567,117.455567 0,0 1,132.395599,379.553497"
+              stroke="#8a8bc0" stroke-width="2.112" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004347 id_AUTH_004461"
+              d="M -19.877434,-54.511719 A 123.764682,123.764682 0,0 1,-56.100437,70.658646"
+              stroke="#edf8fb" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004573 id_AUTH_004696"
+              d="M -386.058716,-165.674210 A 97.098499,97.098499 0,0 1,-438.738586,-80.767563"
+              stroke="#8b91c3" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004676 id_AUTH_005389"
+              d="M -280.689117,-6.311289 A 167.331638,167.331638 0,0 1,-278.646851,178.123947"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004677 id_AUTH_005661"
+              d="M 404.850372,352.678192 A 292.751504,292.751504 0,0 1,133.926849,549.888550"
+              stroke="#8b91c3" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004677 id_AUTH_006220"
+              d="M 404.490692,352.553314 A 82.170114,82.170114 0,0 1,338.549988,401.133392"
+              stroke="#8b91c3" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004963 id_AUTH_005042"
+              d="M -449.171692,585.712891 A 86.591304,86.591304 0,0 1,-385.402130,526.174255"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004963 id_AUTH_005659"
+              d="M -441.524719,594.609131 A 174.508406,174.508406 0,0 1,-275.098114,692.482971"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_004963 id_AUTH_005842"
+              d="M -444.047272,588.761780 A 197.764211,197.764211 0,0 1,-224.441055,563.813660"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_005042 id_AUTH_005659"
+              d="M -366.420288,528.633728 A 171.361764,171.361764 0,0 1,-270.172668,691.628845"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_005042 id_AUTH_005842"
+              d="M -366.104309,521.212280 A 138.189209,138.189209 0,0 1,-222.087128,560.966614"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_005659 id_AUTH_005842"
+              d="M -273.042847,691.811035 A 119.985817,119.985817 0,0 1,-224.082565,574.089600"
+              stroke="#8b91c3" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_005661 id_AUTH_006220"
+              d="M 127.111046,540.437012 A 210.583246,210.583246 0,0 1,318.563965,401.728790"
+              stroke="#8b91c3" stroke-width="3.136" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_005952 id_AUTH_006098"
+              d="M 159.016495,333.915131 A 222.052832,222.052832 0,0 1,24.063791,544.596008"
+              stroke="#edf8fb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AUTH_006725 id_AUTH_006858"
+              d="M 12.106299,166.064713 A 292.248778,292.248778 0,0 1,-149.437912,-126.835907"
+              stroke="#edf8fb" stroke-width="2.624" stroke-opacity="0.29803923"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#8a89be" r="13.739252" cx="504.55756"
+                class="id_AUTH_001733" cy="525.401" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.389435"/>
+        <circle fill-opacity="1.0" fill="#f40d0e" r="21.461918" cx="-865.6984"
+                class="id_AUTH_000156" cy="509.37192" stroke="#7a0607"
+                stroke-opacity="1.0" stroke-width="3.7325072"/>
+        <circle fill-opacity="1.0" fill="#ce374c" r="18.182396" cx="279.26462"
+                class="id_AUTH_000472" cy="-836.15454" stroke="#671b26"
+                stroke-opacity="1.0" stroke-width="3.1621556"/>
+        <circle fill-opacity="1.0" fill="#8a82ba" r="16.02663" cx="-769.0069"
+                class="id_AUTH_000866" cy="607.1343" stroke="#45415d"
+                stroke-opacity="1.0" stroke-width="2.78724"/>
+        <circle fill-opacity="1.0" fill="#8a82ba" r="13.739252" cx="-963.1459"
+                class="id_AUTH_001759" cy="748.2262" stroke="#45415d"
+                stroke-opacity="1.0" stroke-width="2.389435"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="9.2" cx="-1027.0525"
+                class="id_AUTH_005524" cy="683.1887" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#bc4a68" r="17.837448" cx="103.093834"
+                class="id_AUTH_000526" cy="-558.84106" stroke="#5e2534"
+                stroke-opacity="1.0" stroke-width="3.1021647"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-112.79081"
+                class="id_AUTH_004444" cy="-564.21356" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b25678" r="13.354306" cx="484.5617"
+                class="id_AUTH_001876" cy="-80.967926" stroke="#592b3c"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#c64059" r="22.537374" cx="-373.09845"
+                class="id_AUTH_000115" cy="-20.545094" stroke="#63202c"
+                stroke-opacity="1.0" stroke-width="3.9195433"/>
+        <circle fill-opacity="1.0" fill="#a7628b" r="14.417749" cx="-322.34546"
+                class="id_AUTH_001383" cy="10.038727" stroke="#533145"
+                stroke-opacity="1.0" stroke-width="2.5074346"/>
+        <circle fill-opacity="1.0" fill="#b25678" r="22.227203" cx="-402.42456"
+                class="id_AUTH_000127" cy="-108.80707" stroke="#592b3c"
+                stroke-opacity="1.0" stroke-width="3.8656006"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="18.981358" cx="-431.25742"
+                class="id_AUTH_000380" cy="136.21503" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="3.3011055"/>
+        <circle fill-opacity="1.0" fill="#ce374c" r="20.502148" cx="-505.07245"
+                class="id_AUTH_000218" cy="-84.75226" stroke="#671b26"
+                stroke-opacity="1.0" stroke-width="3.5655909"/>
+        <circle fill-opacity="1.0" fill="#c64059" r="19.131777" cx="-173.82729"
+                class="id_AUTH_000347" cy="243.1349" stroke="#63202c"
+                stroke-opacity="1.0" stroke-width="3.3272655"/>
+        <circle fill-opacity="1.0" fill="#f50d0d" r="19.131777" cx="-196.18634"
+                class="id_AUTH_000356" cy="-191.0399" stroke="#7a0606"
+                stroke-opacity="1.0" stroke-width="3.3272655"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="17.658613" cx="-42.432896"
+                class="id_AUTH_000547" cy="-152.37141" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="3.0710633"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="15.541582" cx="-135.38698"
+                class="id_AUTH_000979" cy="3.1056137" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.702884"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="15.541582" cx="42.907932"
+                class="id_AUTH_001007" cy="247.30556" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.702884"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="14.722854" cx="17.355825"
+                class="id_AUTH_001343" cy="94.01189" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.560496"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="13.739252" cx="-238.43568"
+                class="id_AUTH_001819" cy="104.06824" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.389435"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="12.92616" cx="-216.09682"
+                class="id_AUTH_002238" cy="-30.051472" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.853085" cx="-348.29675"
+                class="id_AUTH_003036" cy="192.69563" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.061406"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="-309.33755"
+                class="id_AUTH_003529" cy="-154.23439" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="-100.70001"
+                class="id_AUTH_004113" cy="-259.69324" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-286.53757"
+                class="id_AUTH_004676" cy="-14.422741" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-143.37831"
+                class="id_AUTH_004684" cy="116.70482" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-284.31424"
+                class="id_AUTH_005389" cy="186.36292" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-459.69305"
+                class="id_AUTH_005458" cy="-27.485287" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="19.872938"
+                class="id_AUTH_005526" cy="-252.9689" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-230.55643"
+                class="id_AUTH_005791" cy="-253.01761" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-117.85795"
+                class="id_AUTH_005996" cy="210.64194" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="9.2" cx="-291.6173"
+                class="id_AUTH_006044" cy="-105.900635" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f20f10" r="20.874104" cx="333.32578"
+                class="id_AUTH_000195" cy="-544.7694" stroke="#790708"
+                stroke-opacity="1.0" stroke-width="3.6302788"/>
+        <circle fill-opacity="1.0" fill="#9971a1" r="16.893412" cx="151.67453"
+                class="id_AUTH_000685" cy="-163.78963" stroke="#4c3850"
+                stroke-opacity="1.0" stroke-width="2.9379845"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="16.475006" cx="-245.48863"
+                class="id_AUTH_000777" cy="243.94861" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.8652184"/>
+        <circle fill-opacity="1.0" fill="#a7628b" r="16.02663" cx="123.265495"
+                class="id_AUTH_000872" cy="285.80017" stroke="#533145"
+                stroke-opacity="1.0" stroke-width="2.78724"/>
+        <circle fill-opacity="1.0" fill="#c64059" r="15.789206" cx="99.42849"
+                class="id_AUTH_000964" cy="436.70825" stroke="#63202c"
+                stroke-opacity="1.0" stroke-width="2.7459488"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="14.417749" cx="-452.1996"
+                class="id_AUTH_001482" cy="-375.5413" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.5074346"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="13.739252" cx="454.45282"
+                class="id_AUTH_001707" cy="415.27496" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.389435"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="12.92616" cx="-266.11743"
+                class="id_AUTH_002340" cy="-136.74875" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="-507.66626"
+                class="id_AUTH_003730" cy="83.26393" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="-565.72894"
+                class="id_AUTH_003889" cy="-12.218689" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="11.085378" cx="23.940199"
+                class="id_AUTH_003965" cy="302.88348" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-551.78613"
+                class="id_AUTH_004503" cy="-136.4819" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-386.4253"
+                class="id_AUTH_004573" cy="-175.66748" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-447.85516"
+                class="id_AUTH_004696" cy="-76.65807" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="-348.34265"
+                class="id_AUTH_004905" cy="-199.5587" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-336.2754"
+                class="id_AUTH_004959" cy="-396.26526" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-286.92163"
+                class="id_AUTH_005779" cy="-193.84862" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="135.46461"
+                class="id_AUTH_005828" cy="389.07092" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-674.31744"
+                class="id_AUTH_006052" cy="-167.16217" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="-341.1638"
+                class="id_AUTH_006213" cy="-68.75518" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="14.417749" cx="44.65086"
+                class="id_AUTH_001440" cy="-718.7699" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.5074346"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="12.92616" cx="462.946"
+                class="id_AUTH_002341" cy="213.72192" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="12.92616" cx="500.02786"
+                class="id_AUTH_002350" cy="327.90955" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="331.32425"
+                class="id_AUTH_005352" cy="-644.4612" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-652.79614"
+                class="id_AUTH_005831" cy="662.4711" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#e51d25" r="18.82803" cx="400.89432"
+                class="id_AUTH_000390" cy="-184.46321" stroke="#720e12"
+                stroke-opacity="1.0" stroke-width="3.2744398"/>
+        <circle fill-opacity="1.0" fill="#b25678" r="17.092949" cx="538.11945"
+                class="id_AUTH_000659" cy="-137.47835" stroke="#592b3c"
+                stroke-opacity="1.0" stroke-width="2.9726868"/>
+        <circle fill-opacity="1.0" fill="#a7628b" r="16.25493" cx="264.45828"
+                class="id_AUTH_000826" cy="-355.02014" stroke="#533145"
+                stroke-opacity="1.0" stroke-width="2.8269446"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="534.85693"
+                class="id_AUTH_003802" cy="-492.7039" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="262.1123"
+                class="id_AUTH_004047" cy="-521.0533" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="9.2" cx="153.97548"
+                class="id_AUTH_005103" cy="-373.90405" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="266.1806"
+                class="id_AUTH_006432" cy="-412.64014" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ce374c" r="20.24517" cx="248.70154"
+                class="id_AUTH_000248" cy="268.4594" stroke="#671b26"
+                stroke-opacity="1.0" stroke-width="3.5208993"/>
+        <circle fill-opacity="1.0" fill="#9971a1" r="18.349018" cx="375.5075"
+                class="id_AUTH_000460" cy="27.970211" stroke="#4c3850"
+                stroke-opacity="1.0" stroke-width="3.1911333"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="12.4372" cx="607.28894"
+                class="id_AUTH_000972" cy="-239.12585" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="2.162991"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="15.282457" cx="192.32683"
+                class="id_AUTH_001081" cy="425.83368" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.6578186"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="14.722854" cx="43.506466"
+                class="id_AUTH_001364" cy="373.23724" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.560496"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="13.354306" cx="395.23856"
+                class="id_AUTH_001923" cy="523.2208" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="13.354306" cx="295.167"
+                class="id_AUTH_001980" cy="374.70337" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="12.92616" cx="322.98264"
+                class="id_AUTH_002181" cy="195.28986" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="244.76038"
+                class="id_AUTH_003722" cy="451.0756" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="407.95"
+                class="id_AUTH_004677" cy="343.17072" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8a82ba" r="9.2" cx="360.1252"
+                class="id_AUTH_005011" cy="458.01715" stroke="#45415d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="187.6592"
+                class="id_AUTH_005285" cy="241.48907" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="123.92689"
+                class="id_AUTH_005661" cy="549.9165" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="328.5637"
+                class="id_AUTH_006220" cy="401.65652" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9971a1" r="19.980341" cx="787.1493"
+                class="id_AUTH_000280" cy="-156.59871" stroke="#4c3850"
+                stroke-opacity="1.0" stroke-width="3.4748418"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="13.354306" cx="666.68274"
+                class="id_AUTH_002041" cy="-393.16122" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="754.3165"
+                class="id_AUTH_005585" cy="-566.7246" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="822.6236"
+                class="id_AUTH_006752" cy="-352.84552" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="12.92616" cx="263.2607"
+                class="id_AUTH_002322" cy="212.45383" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="11.853085" cx="41.0824"
+                class="id_AUTH_003411" cy="20.012524" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.061406"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="-256.3698"
+                class="id_AUTH_003450" cy="52.500904" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-278.7444"
+                class="id_AUTH_004994" cy="-51.447094" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-575.07385"
+                class="id_AUTH_006650" cy="247.89694" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-64.496574"
+                class="id_AUTH_006902" cy="414.03568" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8a82ba" r="14.722854" cx="-267.55786"
+                class="id_AUTH_001263" cy="302.70282" stroke="#45415d"
+                stroke-opacity="1.0" stroke-width="2.560496"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="13.354306" cx="-207.51805"
+                class="id_AUTH_002011" cy="357.46143" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="11.085378" cx="-23.683718"
+                class="id_AUTH_004347" cy="-65.94406" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="-63.785465"
+                class="id_AUTH_004461" cy="77.05711" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="21.152172"
+                class="id_AUTH_006725" cy="170.32759" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="-148.21724"
+                class="id_AUTH_006858" cy="-136.76112" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a7628b" r="15.010223" cx="375.3424"
+                class="id_AUTH_001162" cy="-335.99652" stroke="#533145"
+                stroke-opacity="1.0" stroke-width="2.6104736"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="14.722854" cx="428.56482"
+                class="id_AUTH_001328" cy="-301.2928" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.560496"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="13.354306" cx="375.0185"
+                class="id_AUTH_002012" cy="-82.296555" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="14.09146" cx="101.86396"
+                class="id_AUTH_000539" cy="174.65076" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="2.4506888"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="13.354306" cx="318.83957"
+                class="id_AUTH_001943" cy="-27.55785" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="12.92616" cx="376.65997"
+                class="id_AUTH_002388" cy="132.28728" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.853085" cx="100.399376"
+                class="id_AUTH_003143" cy="116.241745" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.061406"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="268.8116"
+                class="id_AUTH_003995" cy="137.71013" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="13.739252" cx="154.99167"
+                class="id_AUTH_001834" cy="-781.8528" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.389435"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="12.92616" cx="155.45013"
+                class="id_AUTH_002328" cy="-662.4506" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.2480278"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="16.02663" cx="304.3779"
+                class="id_AUTH_000855" cy="648.50464" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.78724"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="15.010223" cx="537.37714"
+                class="id_AUTH_001181" cy="-245.11853" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.6104736"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="14.722854" cx="593.38605"
+                class="id_AUTH_001323" cy="-356.88327" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="2.560496"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="447.87756"
+                class="id_AUTH_005785" cy="-129.17117" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="14.09146" cx="153.72615"
+                class="id_AUTH_001676" cy="17.656914" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.4506888"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="46.198185"
+                class="id_AUTH_004242" cy="-81.33075" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="154.84271"
+                class="id_AUTH_004929" cy="-81.83821" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="266.52963"
+                class="id_AUTH_005253" cy="-136.82053" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="11.085378" cx="155.14491"
+                class="id_AUTH_000765" cy="-881.4756" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-121.090515"
+                class="id_AUTH_002496" cy="452.3124" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-504.98294"
+                class="id_AUTH_005413" cy="306.31293" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-401.4049"
+                class="id_AUTH_006118" cy="467.0596" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-284.40863"
+                class="id_AUTH_006556" cy="413.15912" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="359.9344"
+                class="id_AUTH_006327" cy="336.68942" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8a86bd" r="14.417749" cx="-833.82135"
+                class="id_AUTH_001417" cy="795.36945" stroke="#45435e"
+                stroke-opacity="1.0" stroke-width="2.5074346"/>
+        <circle fill-opacity="1.0" fill="#8a84bc" r="13.354306" cx="-644.42004"
+                class="id_AUTH_002105" cy="921.14874" stroke="#45425e"
+                stroke-opacity="1.0" stroke-width="2.322488"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.853085" cx="146.8806"
+                class="id_AUTH_002920" cy="221.42545" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="2.061406"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="158.50397"
+                class="id_AUTH_005952" cy="323.92828" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="9.2" cx="14.777544"
+                class="id_AUTH_006098" cy="548.3062" stroke="#767c7d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b8cc0" r="11.085378" cx="-421.23285"
+                class="id_AUTH_004396" cy="357.45322" stroke="#454660"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-339.30676"
+                class="id_AUTH_005583" cy="250.27592" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="605.5577"
+                class="id_AUTH_003896" cy="64.03296" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-451.4901"
+                class="id_AUTH_004963" cy="595.4404" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-375.53857"
+                class="id_AUTH_005042" cy="524.5281" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-270.98096"
+                class="id_AUTH_005659" cy="701.5961" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="-215.68977"
+                class="id_AUTH_005842" cy="568.6526" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="11.085378" cx="317.1922"
+                class="id_AUTH_004035" cy="-246.29675" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8a89be" r="11.085378" cx="-156.14514"
+                class="id_AUTH_003898" cy="-740.0524" stroke="#45445f"
+                stroke-opacity="1.0" stroke-width="1.9278919"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="35.175373"
+                class="id_AUTH_006505" cy="-903.30707" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#8b91c3" r="9.2" cx="578.16077"
+                class="id_AUTH_005486" cy="412.56464" stroke="#454861"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+</svg>

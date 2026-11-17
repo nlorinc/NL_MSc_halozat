@@ -1,0 +1,51 @@
+# Private/licensed research inputs
+/source_data/
+/DATA_orig.csv
+/Unideb_szerzok.csv
+
+# Generated tables, intermediate files and ROR API cache
+/data_out/
+
+# Automatically generated figures are not published by default.
+# Publish only manually reviewed, approved files under public_figures/.
+/figures/
+
+# Generated executed notebooks and runtime artifacts
+# Publication notebook is the only notebook intended for this repository.
+/MSc_final.ipynb
+/MSc_final_GitHub.ipynb
+/NL_MSc_halozat.ipynb
+*_lefutott.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Local Python environments and settings
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+
+# Temporary and operating-system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Data and native Gephi projects are excluded until redistribution is approved.
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.gephi
+*.gexf
+
+# Reviewed public_figures/ images and PDFs may be committed normally.
