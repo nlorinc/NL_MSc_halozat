@@ -171,8 +171,11 @@ Az ellenőrző a forrásfájlok jelenlétét, a notebook tiszta kimenetét, a 25
 
 A diplomamunkához tartozó végső, ellenőrzött kódállapotot később külön **GitHub release/tag** azonosítja. DOI-t (például Zenodo-archiválással) csak a végleges publikálás után érdemes hozzárendelni.
 
-**Licenc:** a forráskódra vonatkozó licenc és a publikálható ábrák újrafelhasználási feltételei még nincsenek meghatározva; ezekről a nyilvános közzététel előtt külön kell dönteni. A korlátozott forrásadatok nem válnak a kódra választott licenc hatálya alatt szabadon újrahasznosíthatóvá.
+## Licenc és újrafelhasználás
 
----
+A saját Python-kód és a hozzá tartozó szoftverdokumentáció **MIT-licenc** alatt érhető el: lásd [`LICENSE`](LICENSE). A saját szöveges dokumentáció alternatívaként **CC BY 4.0** szerint is felhasználható.
 
-*Állapot: a kód és 48 SVG ábra privát GitHub-repozitóriumban rendelkezésre áll; a helyi teljes futás és a referenciaellenőrzés sikeres. A független, tiszta környezetű reprodukció és a nyilvános terjesztés jogi ellenőrzése még hátravan.*
+A `public_figures/` 48 SVG-ábrája **jelenleg nem kapott nyílt újrafelhasználási licencet**. Célunk a **CC BY 4.0** közzététel, de ehhez előbb tisztázni kell a Scopus/SciVal-forrásadatok és a harmadik fél jogainak továbbadási feltételeit. Lásd: [`public_figures/LICENSE.md`](public_figures/LICENSE.md).
+
+A nyers Scopus/SciVal-adatok és részletes származtatott táblák nem részei a repozitóriumnak, és a kódlicenc nem terjed ki rájuk. A részletek: [`LICENSING.md`](LICENSING.md) és [`DATA_ACCESS.md`](DATA_ACCESS.md).
+
