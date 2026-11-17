@@ -1,4 +1,4 @@
-# Dependencies for MSc_final.ipynb and utils/*.py
+# Dependencies for NL_MSc_halozat_GitHub.ipynb and utils/*.py
 # Versions from the supplied Windows Python environment (2026-11-11).
 # Python version is not recorded by pip freeze; verify separately.
 # Scientific computing and plotting

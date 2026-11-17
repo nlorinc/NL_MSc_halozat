@@ -157,7 +157,7 @@ A közzétételi jogosultságokat az alkalmazandó Scopus/SciVal-szerződés, az
 - Az intézményi országfeloldás nem minden partner esetén sikeres, és az intézményországokból nem szabad a közvetlen publikáció–ország hálózatot visszakövetkeztetni.
 - A KAT-kategóriák karon belüli kvartilishatárokra épülnek, holtverseny-kezeléssel; nem abszolút, karok között közvetlenül összevethető teljesítménymutatók.
 
-## Publikálás előtti helyi ellenőrzés
+## Helyi reprodukciós ellenőrzés
 
 A projekt gyökerében futtatható, csak szabványos Python-könyvtárakat használó ellenőrző:
 
@@ -175,4 +175,4 @@ A diplomamunkához tartozó végső, ellenőrzött kódállapotot később kül�
 
 ---
 
-*Állapot: GitHubra előkészített dokumentáció; a teljes, tiszta környezetű reprodukció, az adatterjesztési engedélyek és a publikálandó ábrák végső ellenőrzése még hátravan.*
+*Állapot: a kód és 48 SVG ábra privát GitHub-repozitóriumban rendelkezésre áll; a helyi teljes futás és a referenciaellenőrzés sikeres. A független, tiszta környezetű reprodukció és a nyilvános terjesztés jogi ellenőrzése még hátravan.*
