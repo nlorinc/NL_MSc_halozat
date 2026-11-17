@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  If you use the analysis software in this repository, please cite this
+  software release. The underlying Scopus/SciVal source data are not included.
+type: software
+title: "NL_MSc_halozat: University of Debrecen publication collaboration networks (2015–2024)"
+authors:
+  - family-names: "Nagy"
+    given-names: "Lőrinc"
+repository-code: "https://github.com/nlorinc/NL_MSc_halozat"
+version: "1.0.0"
+abstract: >-
+  Python/Jupyter analysis of publication-based co-authorship, faculty, and
+  institutional collaboration networks at the University of Debrecen,
+  Hungary (2015–2024). The software source code is licensed under MIT.
+  Original Scopus/SciVal exports are not redistributed; the accompanying
+  SVG figures have separate reuse conditions described in LICENSING.md.
+keywords:
+  - bibliometrics
+  - co-authorship networks
+  - collaboration networks
+  - network science
+  - research software
+  - University of Debrecen
